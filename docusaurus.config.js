@@ -82,9 +82,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Astroid Framework',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Astroid Framework Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -92,11 +92,16 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://astroidframe.work/',
+            label: 'Home Page',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/templaza/astroid-framework',
             label: 'GitHub',
             position: 'right',
           },
@@ -145,7 +150,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Astroid Framework.com.`,
       },
       prism: {
         theme: prismThemes.github,

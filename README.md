@@ -1,41 +1,29 @@
-# Website
+# Astroid Document
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the official documentation repository for **Astroid Framework** — a powerful, flexible, and modern Joomla template framework developed by [TemPlaza](https://www.templaza.com).
 
-## Installation
+This site is built with [Docusaurus](https://docusaurus.io/) and is intended to help developers, designers, and users quickly get started with Astroid, explore its features, and find solutions through clear and well-structured guides.
 
-```bash
-yarn
-```
+🌐 **Live Documentation**: [https://manual.astroidframe.work](https://manual.astroidframe.work)
 
-## Local Development
+## ✨ Features
 
-```bash
-yarn start
-```
+- 📘 Step-by-step documentation for using and customizing Astroid
+- 🧩 Guide to layout, typography, modules, and theme customization
+- 🛠️ Developer tips and integration instructions
+- 🚀 Built with Docusaurus and deployed via GitHub Pages
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🛠️ Local Development
 
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
+To run this documentation locally:
 
 ```bash
-USE_SSH=true yarn deploy
+git clone https://github.com/templaza/astroid-document.git
+cd astroid-document
+npm install
+npm start
 ```
+Then open your browser at http://localhost:3000
 
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 📚 Contributing
+Feel free to contribute by opening issues or submitting pull requests!

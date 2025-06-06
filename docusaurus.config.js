@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'templaza', // Usually your GitHub org/user name.
-  projectName: 'Astroid Document', // Usually your repo name.
+  projectName: 'astroid-document', // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

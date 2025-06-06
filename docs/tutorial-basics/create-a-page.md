@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Create a Page
 
+Thank you for using **Astroid**! This guide will help you create your first page using Markdown or React.
+
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` → `localhost:3000/`

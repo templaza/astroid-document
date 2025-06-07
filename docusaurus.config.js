@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://astroidframe.work',
               },
               {
                 label: 'GitHub',

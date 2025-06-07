@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source code
@@ -31,15 +31,12 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: /home/runner/work/_temp/artifact.tar
+          path: .
           retention-days: 1
           if-no-files-found: error
           compression-level: 6
           overwrite: false
           include-hidden-files: false
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

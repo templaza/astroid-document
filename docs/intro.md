@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is Astroid?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Astroid is a powerful modern framework tailored for designers and developers or simply assists you in building your first website. Its intuitive interface helps you create fully responsive, fast & robust Joomla-based websites and templates. Astroid uses the last mainstream web technologies and fully integrates and enhances the core abilities of Joomla.
 
-## Getting Started
+## Key Features
 
-Get started by **creating a new site**.
+- Built for Joomla 4, Joomla 5 & Beyond!
+- Build Fast Loading Websites
+- Structure 100% Responsive with Advanced per Devices User Controls
+- Bootstrap 5 Compatible, Sass Ready, Custom CSS & SCSS files if needed
+- Ergonomic Drag & Drop Layout Builder with Total Design Flexibility
+- Flexible Logo and Header Options (Retina Logo, “Sticky” Menu, Layout Controls...)
+- Font Awesome 6 (External or Local Load)
+- Social Icons, Phone & Share
+- Accessible Design & Text Directions RTL/LTR Ready
+- Sections & Elements Animations plus Extensive Background Controls
+- Advanced Menus Options (Pages Banners, Icons, Subtitles, Badges...)
+- Off-Canvas Sections & Powerful “Mega Menu” Options
+- Advanced Typography Controls for External (Google...) or Self-Hosted Fonts
+- Advanced Blog Options (Author Info, Related Articles, Read Time, Social Share, Comments...)
+- Custom Article Type options (Videos, Gallery, Audio, Review, Quote & Articles Badges...)
+- Unlimited Integration of Custom Code & files (Javascript, CSS, Tracking Code...)
+- Custom Profiles & Themes with Import/Export Settings
+- Lazy Loading & JS & CSS Code Optimization
+- Open Graph
+- Total integration of Joomla Child Templates Ability
+- Ajax Admin & Light & Dark Colors Themes with Visitors Switch
+- Enhanced User Experience. Build the Design in Your Head, Easily.
+- Refactored Codebase, Better Every Versions
+- Available in multiple languages
+- Powerful Widget System
+- And More ...
+- Only Enable What You Need & Ask Us for New Features!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why Choose Astroid?
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Astroid is designed for both beginners and advanced users. Whether you are building a simple blog or a complex business site, Astroid provides the tools and flexibility you need. Its user-friendly interface, robust features, and active community make it a top choice for Joomla website development.

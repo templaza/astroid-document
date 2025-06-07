@@ -24,19 +24,7 @@ jobs:
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-          name: github-pages
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: .
-          retention-days: 1
-          if-no-files-found: error
-          compression-level: 6
-          overwrite: false
-          include-hidden-files: false
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

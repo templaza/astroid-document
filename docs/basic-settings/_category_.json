@@ -1,0 +1,8 @@
+{
+  "label": "Basic Settings",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This section covers the basic settings of the Astroid Framework, including configuration options for the framework, template settings, and more. It is essential for understanding how to customize your Astroid-based templates effectively."
+  }
+}

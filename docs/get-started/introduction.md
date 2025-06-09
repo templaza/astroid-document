@@ -12,7 +12,7 @@ Available in multiple languages, Astroid is proud of its lean modern code built 
 
 Astroid gives you total integration and even enhances all Joomla capabilities making this CMS a Winner of the most prestigious Awards year after year over WordPress and other well-known CMS.
 
-![Astroid Logo](/img/astroid_img.jpeg)
+![Astroid Logo](/img/introduce/astroid_img.jpeg)
 
 ## The Launch!
 Astroid Framework v1.0 was born in 2018 and built by JoomDev, a long-time well-known Joomla team of talented developers. In 2021 they decided to release this beautifully crafted framework to Open Source (Like Joomla). Their last release was v2.5.4 (32 releases in all).

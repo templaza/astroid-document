@@ -70,7 +70,7 @@ const config = {
         title: 'Astroid Framework',
         logo: {
           alt: 'Astroid Framework Logo',
-          src: 'img/logo.svg',
+          src: 'img/astroid.gif',
         },
         items: [
           {
@@ -134,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Astroid Framework.com.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Astroid Framework.`,
       },
       prism: {
         theme: prismThemes.github,

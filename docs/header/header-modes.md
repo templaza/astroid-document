@@ -48,7 +48,7 @@ The sidebar header positions elements in a vertical column on the side of the pa
 * **Right** - Vertical header on the right side
 * **Topbar** - Combination of horizontal topbar with vertical sidebar
 
-## Header Blocks: 
+## Header Blocks 
 Choose what you want to display in the header blocks from the given options in the dropdown that is:
 
 * **Blank**: Leave a blank space
@@ -59,30 +59,32 @@ Choose what you want to display in the header blocks from the given options in t
 Some Header Blocks will only work on Desktop, not for tablets and mobile.
 :::
 
-## Site Menu Method
+## Site Menu Options
+
+### Site Menu Method
 
 Choose the menu display method. You can now choose to display the Astroid Menu directly as Default or through a Module Position.
 
 ![site-menu-method.png](../../static/img/header/site-menu-method.png)
 
-## Site Menu
+### Site Menu
 If you have more than one main menu created then you can choose which menu you want to show on your main site from the dropdown list.
 
 * **Start Level**: The level to start rendering the menu at. Setting the start and end levels to the same level will only display that single level.
 * **End Level**: You can even set up to which level you want to show the sub-menu items. By default, it is set to “ALL” which means all the sub-menu items will be visible.
 
-## Header Breakpoint
+### Header Breakpoint
 
 Choose a breakpoint so the header will collapse when the width is less than the selected breakpoint parameter. The lg is set as default breakpoint to suit most of the cases.
 
-## Mobile Menu
+### Mobile Menu
 
 You also choose which menu you want to show on the mobile view of your site if you have 2 or more menus created.
 
-## Dropdown Trigger
+### Dropdown Trigger
 
 Choose the action to view the dropdown menu or the mega menu that is either on Hover or Click.
 
-## Dropdown Arrow
+### Dropdown Arrow
 
 Choose whether you want to display the dropdown arrow or not. If you select Yes, then the dropdown arrow will be displayed next to the menu item that has a sub-menu.

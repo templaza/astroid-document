@@ -7,7 +7,9 @@ sidebar_position: 1
 ## About the License Key
 Every Astroid license includes a unique 22 character key. This key is used to identify the subscription and is used by the Astroid Pro Updater and the Joomla Update Manager to allow access to add-on updates.
 
-> The key will become invalid when the subscription expires and valid again when a new or renewal subscription is purchased.
+:::info[Note]
+The key will become invalid when the subscription expires and valid again when a new or renewal subscription is purchased.
+:::
 
 The key can be found in the **Account** area in **Your Licenses** page, which you will be directed to after logging in, or by clicking on **Account** in the top right Menu
 

@@ -18,10 +18,10 @@
     "@docusaurus/preset-classic": "latest",
     "@mdx-js/react": "latest",
     "clsx": "latest",
-    "gh-pages": "latest",
     "prism-react-renderer": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "spotlight.js": "^0.7.8"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "latest",

@@ -1,0 +1,8 @@
+{
+  "label": "Header",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "This section covers the header settings of the Astroid Framework, including configuration options for the header layout, styles, and behaviors. It is essential for understanding how to customize the header of your Astroid-based templates effectively."
+  }
+}

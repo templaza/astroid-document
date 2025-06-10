@@ -27,3 +27,7 @@
   --ifm-color-primary-lightest: #f5f3ff;
   --docusaurus-highlighted-code-line-bg: rgba(167, 139, 250, 0.2);
 }
+
+.markdown > p > img, figure > img {
+  cursor: pointer;
+}

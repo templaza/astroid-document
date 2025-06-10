@@ -42,6 +42,11 @@ const config = {
     locales: ['en'],
   },
 
+  // List of plugins to load
+  plugins: [
+    require.resolve('./plugins/lightbox'),
+  ],
+
   presets: [
     [
       'classic',

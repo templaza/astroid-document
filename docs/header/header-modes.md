@@ -88,3 +88,13 @@ Choose the action to view the dropdown menu or the mega menu that is either on H
 ### Dropdown Arrow
 
 Choose whether you want to display the dropdown arrow or not. If you select Yes, then the dropdown arrow will be displayed next to the menu item that has a sub-menu.
+
+## Dropdown Animation
+
+Choose the animation for the dropdown menu or the mega menu. You can choose from the following options:
+
+* **Animation**: You can also customize the animation of your megamenu, and drop-down menus, you can set it to None, Slide or Fade.
+* **Animation Duration**: Depending upon the animation you choose from the Animation option you can also set its speed. The value is set in milliseconds and its maximum value can be up to 4000ms.
+* **Easing**: This function specifies the speed at which an animation progresses at different points within the animation. You can choose the type of easing from the various options provided: linear, swing, EaseInQuad, EaseOutQuad, EaseInOutQuad, EaseInCubic, EaseOutCubic, EaseInOutCubic, EaseInQuart, EaseInQuart, EaseInQuart, EaseInQuint, EaseOutQuint, EaseInOutQuint, EaseInSine, EaseOutSine, EaseInOutSine, EaseInExpo, EaseOutExpo, EaseInOutExpo, EaseInCirc, EaseOutCirc, EaseInOutCirc, EaseInElastic, EaseOutElastic, EaseInOutElastic, EaseInBack, EaseOutBack, EaseInOutBack, EaseInBounce, EaseOutBounce and EaseInOutBounce.
+
+![menu-animation.jpeg](../../static/img/header/menu-animation.jpeg)

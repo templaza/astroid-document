@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Layout Builder
@@ -15,7 +15,7 @@ root
 └── sections  
     └── rows  
         └── cols  
-            └── elements
+            └── elements (components, modules, widgets, etc.)
 ```
 
 ![layout-builder.jpg](../../static/img/style-system/layout-builder.jpg)

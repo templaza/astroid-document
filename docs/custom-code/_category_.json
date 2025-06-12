@@ -1,0 +1,8 @@
+{
+  "label": "Custom Code",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "The Custom Code section of the Astroid Framework documentation provides guidance on how to add custom CSS and JavaScript to your website. This feature allows you to enhance the functionality and appearance of your site beyond the built-in options, giving you the flexibility to implement unique styles and behaviors tailored to your specific needs. Whether you're looking to tweak existing styles or add new interactive elements, this section will help you integrate custom code effectively."
+  }
+}

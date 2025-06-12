@@ -1,10 +1,19 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Layout Builder
 
 The Layout Builder is a visual and intuitive tool in the Astroid Framework that allows you to design your Joomla website’s layout using a drag-and-drop interface. It enables you to structure your template without writing any code.
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/T4efXNl0KGw"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Overview
 
@@ -18,7 +27,7 @@ root
             └── elements (components, modules, widgets, etc.)
 ```
 
-![layout-builder.jpg](../../static/img/style-system/layout-builder.jpg)
+![layout-builder.jpg](../../static/img/layout-builder/layout-builder.jpg)
 
 ## Layout Hierarchy Breakdown
 
@@ -98,9 +107,9 @@ The Layout Builder allows you to configure how your layout behaves on different 
 * **SM** \(Mobile Portrait\): Adjusts layout for mobile portrait orientation.
 * **XS** \(Extra Small\): Configures layout for very small screens (e.g., small phones).
 
-![responsive-layout-icons.jpeg](../../static/img/style-system/responsive-layout-icons.jpeg)
+![responsive-layout-icons.jpeg](../../static/img/layout-builder/responsive-layout-icons.jpeg)
 
-![responsive-layout-selected.jpeg](../../static/img/style-system/responsive-layout-selected.jpeg)
+![responsive-layout-selected.jpeg](../../static/img/layout-builder/responsive-layout-selected.jpeg)
 
 ## Saving and Applying Layouts
 

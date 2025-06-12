@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Sub Layouts
@@ -23,45 +23,45 @@ To create sub-layouts, go to:
 - Go to the `Layout` → `Sub Layouts` tab.
 - Click the `New Layout` button.
 
-![new-sub-layout.png](../../static/img/style-system/new-sub-layout.png)
+![new-sub-layout.png](../../static/img/layout-builder/new-sub-layout.png)
 > First view of the Sub Layout
 
-![edit-sub-layout.png](../../static/img/style-system/edit-sub-layout.png)
+![edit-sub-layout.png](../../static/img/layout-builder/edit-sub-layout.png)
 > Edit view of the Sub Layout
 
-![save-layout.png](../../static/img/style-system/save-layout.png)
+![save-layout.png](../../static/img/layout-builder/save-layout.png)
 > Insert layout information and Save it.
 
-![save-sub-layout-result.png](../../static/img/style-system/save-sub-layout-result.png)
+![save-sub-layout-result.png](../../static/img/layout-builder/save-sub-layout-result.png)
 > Save sub-layout successfully
 
 ## How to Use a Sub Layout
 
 To use Sub-Layout. Switch to Layout > Layout.
 
-![layout-builder.jpg](../../static/img/style-system/layout-builder.jpg)
+![layout-builder.jpg](../../static/img/layout-builder/layout-builder.jpg)
 
 Add Element >> Select `Sublayout` tab >> Select a `sublayout`
 
-![add-sublayout.png](../../static/img/style-system/add-sublayout.png)
+![add-sublayout.png](../../static/img/layout-builder/add-sublayout.png)
 
 You can see it appear
 
-![add-sublayout-result.png](../../static/img/style-system/add-sublayout-result.png)
+![add-sublayout-result.png](../../static/img/layout-builder/add-sublayout-result.png)
 
 ## How to Edit a Sub Layout
 
 If you want to edit your sublayout. Go back to Layout >> `Sub Layouts` >> Click to title to edit layout
 
-![edit-sublayout.png](../../static/img/style-system/edit-sublayout.png)
+![edit-sublayout.png](../../static/img/layout-builder/edit-sublayout.png)
 
 Edit your sub-layout and save it again.
 
-![edit-sublayout-view.png](../../static/img/style-system/edit-sublayout-view.png)
+![edit-sublayout-view.png](../../static/img/layout-builder/edit-sublayout-view.png)
 
 Go to Frontend to see the result.
 
-![sublayout-display.png](../../static/img/style-system/sublayout-display.png)
+![sublayout-display.png](../../static/img/layout-builder/sublayout-display.png)
 
 ## Summary
 

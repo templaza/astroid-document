@@ -31,7 +31,7 @@ The Typography feature in Astroid Framework allows you to easily customize fonts
 - **Font Color**: Set the default color for your text. You can choose from a color picker or enter a hex code.
 - **Font Style**: Choose between bold, italic, or underline styles for your text.
 
-![typography.jpg](../../static/img/style-system/typography.jpg)
+![typography.jpg](../../static/img/styling/typography.jpg)
 
 ## How to use local font
 
@@ -40,8 +40,8 @@ Astroid framework supports not only Google fonts but local fonts also. In partic
 Here is an example that you can follow to add your own local font:
 
 1. You can upload `ttf` to `media/templates/site/{template}/fonts` or `images/{template}/fonts`
-![local-fonts.jpg](../../static/img/style-system/local-fonts.jpg)
+![local-fonts.jpg](../../static/img/styling/local-fonts.jpg)
 
 2. Go to Template options \> Typography \> Font Family \> Select Local tab & choose your custom font
 
-![select-local-font.jpg](../../static/img/style-system/select-local-font.jpg)
+![select-local-font.jpg](../../static/img/styling/select-local-font.jpg)

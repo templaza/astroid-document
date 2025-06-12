@@ -9,8 +9,7 @@ The built-in color picker works with both light mode and dark mode, so you can p
 
 ## 📍 Where to Start?
 1.	Log in to your Joomla Administrator Panel.
-2.	Go to:
-System → Site Templates → Templates (Site).
+2.	Go to: System → Site Templates → Templates (Site).
 3.	Click on the Astroid template you are using.
 4.	Click the “Template Options” button.
 5.	Go to the Color tab.
@@ -20,7 +19,7 @@ System → Site Templates → Templates (Site).
 
 Colors are grouped by different parts of your website. Here’s what each group means:
 
-![color-settings.jpg](../../static/img/style-system/color-settings.jpg)
+![color-settings.jpg](../../static/img/styling/color-settings.jpg)
 
 ⸻
 

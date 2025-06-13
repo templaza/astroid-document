@@ -1,0 +1,8 @@
+{
+  "label": "Menu Settings",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "The Menu Settings section of the Astroid Framework documentation provides detailed guidance on configuring and customizing the menu system. This includes options for creating multi-level menus, setting up responsive behaviors, and applying styles to enhance the user experience. Whether you're looking to create a simple navigation bar or a complex menu structure, this section will help you understand how to leverage Astroid's powerful menu features effectively."
+  }
+}

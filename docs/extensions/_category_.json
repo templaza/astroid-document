@@ -1,0 +1,8 @@
+{
+  "label": "Extensions",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "The Extensions section of the Astroid Framework documentation provides comprehensive information on the various extensions available to enhance your website's functionality. This includes modules, plugins, and other tools that can be integrated into your Astroid-based site to add features, improve performance, and customize user experience. Whether you're looking to add social media integration, SEO enhancements, or custom widgets, this section will guide you through the available options and how to implement them effectively."
+  }
+}

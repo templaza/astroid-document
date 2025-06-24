@@ -39,6 +39,11 @@
   overflow: hidden;
 }
 
+.feature-card {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  height: 100%;
+}
+
 .video-container iframe {
   position: absolute;
   top: 0;

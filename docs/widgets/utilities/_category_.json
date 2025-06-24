@@ -1,0 +1,8 @@
+{
+  "label": "Utilities",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This section provides a comprehensive guide on how to create and manage utility widgets within the Astroid Framework. It covers everything from basic widget creation to advanced customization techniques, ensuring that developers can effectively leverage utility elements in their Astroid projects."
+  }
+}

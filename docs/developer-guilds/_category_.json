@@ -1,0 +1,8 @@
+{
+  "label": "Developer Guilds",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "description": "The purpose of this guide is to give developers an up to date guide showing best practice in writing and maintaining Astroid Widgets or modify Astroid. It's aimed at both developers of core Astroid Framework and those developing widgets either for their own use or for making generally available to others."
+  }
+}

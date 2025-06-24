@@ -1,0 +1,8 @@
+{
+  "label": "Joomla",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This section provides a comprehensive guide on how to create and manage Joomla widgets within the Astroid Framework. It covers everything from basic widget creation to advanced customization techniques, ensuring that developers can effectively leverage Joomla's capabilities in their Astroid projects."
+  }
+}

@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
     {
         title: 'Getting Started',
-        link: '/category/get-started',
+        link: '/category/getting-started',
         description: (
             <>
                 Learn about the most important Astroid concepts through step-by-step guides. Highly recommended to go through everything from the start to the end.

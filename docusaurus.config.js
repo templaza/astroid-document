@@ -87,7 +87,7 @@ const config = {
             label: 'Introduction',
           },
           {
-            to: '/category/get-started',
+            to: '/category/getting-started',
             position: 'left',
             label: 'Get Started',
           },

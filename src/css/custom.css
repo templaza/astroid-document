@@ -13,6 +13,7 @@
   --ifm-color-primary-light: #a78bfa;
   --ifm-color-primary-lighter: #c4b5fd;
   --ifm-color-primary-lightest: #ede9fe;
+  --ifm-footer-background-color: rgb(244, 247, 255);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(124, 58, 237, 0.1);
 }
@@ -25,11 +26,20 @@
   --ifm-color-primary-light: #c4b5fd;
   --ifm-color-primary-lighter: #ddd6fe;
   --ifm-color-primary-lightest: #f5f3ff;
+  --ifm-footer-background-color: rgb(25, 25, 25);
   --docusaurus-highlighted-code-line-bg: rgba(167, 139, 250, 0.2);
 }
 
 .markdown > p > img, figure > img {
   cursor: pointer;
+}
+
+.hero .container {
+  max-width: 800px;
+}
+
+.hero__subtitle {
+  margin-bottom: 40px;
 }
 
 .video-container {
@@ -50,4 +60,20 @@
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.footer {
+  padding-bottom: 20px;
+}
+
+.footer, .footer__copyright {
+  border-top: 1px solid var(--ifm-toc-border-color);
+}
+
+.footer__copyright {
+  padding-top: 20px;
+}
+
+.footer__links {
+  margin-bottom: var(--ifm-footer-padding-vertical);
 }

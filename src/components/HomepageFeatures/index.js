@@ -13,6 +13,42 @@ const FeatureList = [
         ),
     },
     {
+        title: 'Basic Settings',
+        link: '/category/basic-settings',
+        description: (
+            <>
+                User guide for basic website settings such as Preloader, Color Mode, Favicon, Page Settings, Smooth Scroll, Bootstrap libraries, Wide or Box layout, and more.
+            </>
+        ),
+    },
+    {
+        title: 'Header Modes',
+        link: '/category/header',
+        description: (
+            <>
+                This section covers the header settings of the Astroid Framework, including configuration options for the header layout, styles, and behaviors.
+            </>
+        ),
+    },
+    {
+        title: 'Styling',
+        link: '/category/styling',
+        description: (
+            <>
+                The documentation guides you through the functions to edit your site's style such as Typography, Colors, Themes, Presets, as well as different ways to customize the style.
+            </>
+        ),
+    },
+    {
+        title: 'Layout Builder',
+        link: '/category/layout-builder',
+        description: (
+            <>
+                Astroid Framework’s Layout Builder allows users to easily design responsive page layouts with drag-and-drop functionality and flexible customization options.
+            </>
+        ),
+    },
+    {
         title: 'Widgets',
         link: '/category/widgets',
         description: (
@@ -26,25 +62,16 @@ const FeatureList = [
         link: '/category/extensions',
         description: (
             <>
-                The Extensions section of the Astroid Framework documentation provides comprehensive information on the various extensions available to enhance your website's functionality.
+                Astroid Framework offers a variety of powerful extensions that help users quickly build, customize, and enhance their website with ease and flexibility.
             </>
         ),
     },
     {
-        title: 'Layout Builder',
-        link: '/category/layout-builder',
+        title: 'Custom Code',
+        link: '/category/custom-code',
         description: (
             <>
-                Layout Builder is a powerful tool for creating custom layouts in Astroid Framework. It allows you to design complex page structures using a drag-and-drop interface, making it easy to build responsive and visually appealing websites without writing code.
-            </>
-        ),
-    },
-    {
-        title: 'Styling',
-        link: '/category/styling',
-        description: (
-            <>
-                The Style System is responsible for dynamic CSS generation, theming, and styling management within the Astroid Framework.
+                Astroid Framework’s Custom CSS and JS feature allows users to add custom code easily, enabling advanced styling and functionality without modifying core files.
             </>
         ),
     },

@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Astroid Document',
-  tagline: 'Documentation for Astroid Framework',
+  title: 'Astroid Framework',
+  tagline: 'Powerful framework for designers and developers to create responsive, fast & robust Joomla based websites and templates.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -84,7 +84,17 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Introduction',
+          },
+          {
+            to: '/category/get-started',
+            position: 'left',
+            label: 'Get Started',
+          },
+          {
+            href: 'https://github.com/templaza/astroid-framework/releases/latest',
+            label: 'Download',
+            position: 'left',
           },
           {
             href: 'https://astroidframe.work/',
@@ -99,14 +109,57 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Astroid Framework',
             items: [
               {
-                label: 'Tutorial',
+                html: `
+                <p>Powerful framework for designers and developers to create responsive, fast & robust Joomla based websites and templates.</p>
+              `,
+              },
+            ],
+          },
+          {
+            title: 'Products',
+            items: [
+              {
+                label: 'Home Page',
+                href: 'https://astroidframe.work',
+              },
+              {
+                label: 'Download',
+                href: 'https://github.com/templaza/astroid-framework/releases/latest',
+              },
+              {
+                label: 'Blog',
+                href: 'https://astroidframe.work/blog',
+              },
+              {
+                label: 'Go Pro',
+                href: 'https://astroidframe.work/pricing',
+              },
+            ],
+          },
+          {
+            title: 'Support',
+            items: [
+              {
+                label: 'Documentation',
                 to: '/intro',
+              },
+              {
+                label: 'Report an Issue',
+                href: 'https://github.com/templaza/astroid-framework/issues',
+              },
+              {
+                label: 'Discussion Forum',
+                href: 'https://github.com/templaza/astroid-framework/discussions',
+              },
+              {
+                label: 'Chat on Discord',
+                href: 'https://discord.gg/2MwtsAX4Py',
               },
             ],
           },
@@ -114,34 +167,25 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/groups/astroid',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Rate Astroid on JED',
+                href: 'https://extensions.joomla.org/extension/astroid-framework/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                href: 'https://astroidframe.work',
+                label: 'Support Astroid with $10',
+                href: 'https://ko-fi.com/astroidframework',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'YouTube Channel',
+                href: 'https://www.youtube.com/@Astroid-Joomla-Seamlessly',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Astroid Framework.`,
+        copyright: `© ${new Date().getFullYear()} Astroid Framework. Powered by TemPlaza.com`,
       },
       prism: {
         theme: prismThemes.github,

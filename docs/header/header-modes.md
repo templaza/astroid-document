@@ -6,6 +6,17 @@ sidebar_position: 1
 
 The Astroid Header System supports three primary modes, each with its own layout options and configuration parameters.
 
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/GgesR1MXnBY"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
 To select a header mode, follow these steps:
 1. Go to **Template Styles** in the Joomla administrator panel.
 2. Open your template style.

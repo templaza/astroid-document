@@ -6,7 +6,14 @@ sidebar_position: 3
 
 Astroid Framework offers a powerful system for enhancing your articles through various **Article Types**. Each type comes with specific options and settings tailored for different content formats like videos, galleries, reviews, quotes, and more.
 
-![article-types.jpg](../../static/img/article-blog/article-types.jpg)
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/UukpjmndCHQ"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## 1. Selecting an Article Type
 
@@ -20,6 +27,8 @@ In the **Article Type** field, you can choose from the following types:
 | **Audio**    | Embed audio from SoundCloud or Spotify. |
 | **Review**   | Articles with ratings and review criteria. |
 | **Quote**    | Highlight a quote or testimonial-style article. |
+
+![article-types.jpg](../../static/img/article-blog/article-types.jpg)
 
 ---
 

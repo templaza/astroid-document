@@ -89,7 +89,7 @@ const config = {
           {
             to: '/category/getting-started',
             position: 'left',
-            label: 'Get Started',
+            label: 'Getting Started',
           },
           {
             href: 'https://github.com/templaza/astroid-framework/releases/latest',

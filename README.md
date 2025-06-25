@@ -4,7 +4,7 @@ Welcome to the official documentation repository for **Astroid Framework** — a
 
 This site is built with [Docusaurus](https://docusaurus.io/) and is intended to help developers, designers, and users quickly get started with Astroid, explore its features, and find solutions through clear and well-structured guides.
 
-🌐 **Live Documentation**: [https://manual.astroidframe.work](https://manual.astroidframe.work)
+🌐 **Live Documentation**: [https://docs.astroidframe.work](https://docs.astroidframe.work)
 
 ## ✨ Features
 

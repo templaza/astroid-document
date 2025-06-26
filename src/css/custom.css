@@ -42,6 +42,26 @@
   margin-bottom: 40px;
 }
 
+.hero .navbar__search {
+  color: var(--ifm-font-color-base);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  text-align: left;
+  width: 40rem
+}
+
+.hero .navbar__search>span {
+  width: 100%
+}
+
+.hero .navbar__search-input {
+  background-position: 1.5rem;
+  height: 3rem;
+  padding-left: 3rem;
+  width: 100%!important
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%;

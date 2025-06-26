@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
         </div>
           <SearchBar />
-          <p className="hero_popular">Popular topics: <a href="/styling/typography">typography</a>, <a href="/layout-builder">layout builder</a>, <a href='/layout-builder/article-layout-builder'>article layout builder</a></p>
+          <p className="hero_popular">Popular topics: <a href="/styling/typography#how-to-use-local-font">use local font</a>, <a href="/layout-builder">layout builder</a>, <a href='/layout-builder/article-layout-builder'>article layout builder</a></p>
       </div>
     </header>
   );

@@ -6,6 +6,10 @@ sidebar_position: 8
 
 The **Art Slider Widget** allows you to create beautiful and dynamic image slideshows with titles, descriptions, buttons, and animation effects. It’s perfect for showcasing banners, featured content, or creative artwork on your Joomla site.
 
+:::info[Pro Feature]
+This widget is available in the **Astroid Pro** version only. If you are using the free version, consider [upgrading to access this feature](https://astroidframe.work/pricing).
+:::
+
 ---
 
 ## 🚀 How to Add the Widget

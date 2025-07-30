@@ -1,11 +1,13 @@
 {
   "name": "astroid-document",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Astroid Framework Documentation Site",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "docusaurus build && node scripts/gzip-sitemap.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

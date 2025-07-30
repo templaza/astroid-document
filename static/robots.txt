@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://docs.astroidframe.work/sitemap.xml
+Sitemap: https://docs.astroidframe.work/sitemap.xml.gz

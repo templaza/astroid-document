@@ -39,3 +39,21 @@ You can create custom.css file and add it to your template. This file will be lo
    - `/templates/your_template_name/css/custom.css`
 
 ![custom-css-files.jpg](../../static/img/custom-code/custom-css-files.jpg)
+
+### To create a custom.scss file:
+1. Go to your Joomla template directory: `/templates/your_template_name/scss/custom` or `/media/templates/site/your_template_name/scss/custom`.
+2. Create a new file named `custom.scss`.
+3. Add your custom SCSS styles to this file.
+4. Save the file.
+5. Clear Astroid cache from the template options.
+6. The custom SCSS will be automatically compiled and loaded by the Astroid Framework.
+
+### To create a custom.scss file in child template:
+1. Go to your Joomla child template directory: `/templates/your_child_template_name/scss/custom` or `/media/templates/site/your_child_template_name/scss/custom`.
+2. Create a new file named `custom.scss`.
+3. Add your custom SCSS styles to this file.
+4. Save the file.
+5. Clear Astroid cache from the template options.
+6. The custom SCSS will be automatically compiled and loaded by the Astroid Framework.
+
+![customscss.jpg](../../static/img/custom-code/customscss.jpg)

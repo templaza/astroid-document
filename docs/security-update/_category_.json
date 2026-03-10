@@ -1,0 +1,8 @@
+{
+  "label": "Security Update",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Security updates for Astroid Framework. This category includes information about vulnerabilities, patches, and best practices for maintaining the security of your Astroid Framework installation."
+  }
+}

@@ -14,7 +14,7 @@ This works similarly to a **design system**: define once → reuse everywhere. Y
 
 ---
 
-## 🧭 2. Step-by-step: Configure a centralized button system
+## 🧭 Step-by-step: Configure a centralized button system
 
 ### 🔹 Step 1 — Choose a Style (your “named button”)
 
@@ -22,7 +22,7 @@ Click on the "Add Item" button to add a new button item.
 
 ![astroid-add-new-button.png](img/astroid-add-new-button.png)
 
-At the top: Choose a button style > Primary
+At the top: Choose a button style > Primary (you can create new items for other buttons)
 
 👉 This means:
 You are editing **ALL `.btn-primary` buttons globally**
@@ -62,11 +62,6 @@ Left: 20px
 
 * Button size
 * Clickable area
-
-💡 Best practice:
-
-* Primary: larger padding
-* Secondary: slightly smaller
 
 ---
 
@@ -121,28 +116,20 @@ Each color has:
 * Light mode
 * Dark mode
 
-👉 If your site uses dark mode:
-
-* Define both
-* Otherwise leave dark empty
+👉 If your site uses dark mode: you should define both, otherwise leave dark empty.
 
 ---
 
 ### 🔹 Step 7 — Click “Apply Changes”
 
-Top-right or bottom, you can see "Apply Changes" button, click on it to save the button style configurations then click save the template style.
+In the Top-right or bottom, you can see "Apply Changes" button, click on it to save the button style configurations then click save the template style.
 
 👉 This compiles dynamic CSS across your site. 
 You can refer to this video tutorial: [Video Reference](https://www.youtube.com/watch?v=eGvkrtUZh7Y)
 
 ---
 
-## 🧩 3. Repeat for other button styles
-
-Now repeat the same steps for other button styles.
-
-
-## 🧠 4. Build a REAL centralized system
+## 🧠 3. Build a REAL centralized system
 
 Here’s how to structure it professionally:
 
@@ -153,12 +140,9 @@ Here’s how to structure it professionally:
 | Outline   | Minimal     | Learn More  |
 | Danger    | Risk        | Delete      |
 
-👉 You are not choosing colors
-👉 You are defining **meaning**
-
 ---
 
-## 🔗 5. How to USE these centralized styles
+## 🔗 4. How to USE these centralized styles
 
 ### In Astroid / SP Page Builder
 

@@ -16,19 +16,19 @@ This creates a depth illusion (3D-like feel) instead of a flat page. Besides, it
 
 ## Background Image + Attachment
 
+![astroid-bg-img.png](img\astroid-bg-img.png)
+
 From Astroid layout, you can edit a section > Settings
 
 * You can choose a background type: **image** or **video** 
 * Then control its behavior with:
 
     * **Background Attachment**
-    * Position, size, repeat, overlay, etc.
+    * Background Position, size, repeat, overlay, etc.
 
 👉 The key option for parallax is:
 
-> **Background Attachment = Fixed**
-
-This makes the image stay in place while content scrolls → classic parallax effect.
+> **Background Attachment = Fixed**: This makes the image stay in place while content scrolls → classic parallax effect.
 
 ---
 

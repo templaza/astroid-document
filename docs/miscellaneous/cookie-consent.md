@@ -21,16 +21,7 @@ The Cookie Consent feature in **Astroid Framework** allows you to display a noti
 
 ---
 
-## 2. Load Default Configuration / Preset
-
-* **Load default configuration**: resets settings to Astroid’s default
-* **Select a preset**: quickly apply predefined styles/layouts
-
-👉 Useful if you want a quick setup without manual customization.
-
----
-
-## 3. Cookie Consent Content
+## 2. Cookie Consent Content
 
 **Option:** `Cookie Consent Content` (This is the **main message displayed to users**)
 
@@ -54,21 +45,19 @@ By continuing to use this website, you agree to our use of cookies.
 
 ---
 
-## 4. Button Text
+## 3. Button Text
 
 **Option:** `Button Text`
 
-* Default: `I accept`
+* Default text: `I accept`
 * You might change to:
 
    * “Accept”
    * “Accept All Cookies”
 
-Note: Keep it simple and action-oriented.
-
 ---
 
-## 5. Card Style
+## 4. Card Style
 
 **Option:** `Card Style` -> Controls the **background style of the consent box**.
 
@@ -85,7 +74,7 @@ You can choose one of styles available in the drop-down list, that is suitable f
 
 ---
 
-## 6. Button Style
+## 5. Button Style
 
 **Option:** `Button Style` -> Controls the **appearance of the accept button**.
 
@@ -102,7 +91,7 @@ There are also many options available. Choose one that ensure good contrast for 
 
 ---
 
-## 7. Display Position
+## 6. Display Position
 
 **Option:** `Display Position` -> This controls where the cookie banner appears:
 

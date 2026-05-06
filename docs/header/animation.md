@@ -8,7 +8,7 @@ The **Animation** panel controls how your **mega menu / dropdown menu** appears 
 
 It’s not just visual polish, it directly impacts **UX, focus, and perceived performance**.
 
-![astroid-header-animation.png](img\astroid-header-animation.png)
+![astroid-header-animation.png](img/astroid-header-animation.png)
 
 ---
 
@@ -27,8 +27,6 @@ There are different animation options available for you to choose from:
 * Blur in
 * Or None
 
----
-
 ## 2. Enable Backdrop
 
 If this option is enabled, the screen will blur as the submenu dropdown appears. 
@@ -45,8 +43,6 @@ If this option is enabled, the screen will blur as the submenu dropdown appears.
 
 ✖ Minimal/simple menus
 ✖ Performance-critical mobile sites
-
----
 
 ## 3. Enable Stagger Effect
 
@@ -84,8 +80,6 @@ It's ideal to enable this option when you have:
 ✖ You want fast interaction
 ✖ You have many menu items (can feel slow)
 
----
-
 ## 4. Enable Header Spacing
 
 ### What it does:
@@ -100,8 +94,6 @@ If it's enabled, dropdown appears **cleanly below header** (Recommended)
 
 * Note: Only disable it if you want a **tight / overlapping design**
 
----
-
 ## 5. Animation Duration
 
 Controls **speed of animation** and be measured in **milliseconds (ms)**
@@ -113,8 +105,6 @@ Controls **speed of animation** and be measured in **milliseconds (ms)**
 * **300+ ms** → slower, more dramatic
 
 👉 Best practice: Keep it **under 250 ms** for usability
-
----
 
 ## 6. Easing
 

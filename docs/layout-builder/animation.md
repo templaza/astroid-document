@@ -16,7 +16,7 @@ This makes it possible to build **interactive, scroll-based or mouse-based anima
 
 Adds **simple entrance animations** to elements (sections, columns, modules).
 
-![astroid-animation-basic.png](img\astroid-animation-basic.png)
+![astroid-animation-basic.png](img/astroid-animation-basic.png)
 
 ### How to use
 
@@ -39,8 +39,6 @@ Adds **simple entrance animations** to elements (sections, columns, modules).
 ---
 
 # 2. Transform (Advanced) – (Astroid Pro Only)
-
-This is the **big upgrade in 3.4.0**.
 
 ## Concept: “Scenes”
 
@@ -70,7 +68,7 @@ Transform Scenes
 
 ### Step 2: Configure animation behavior
 
-![astroid-advanced-transform.png](img\astroid-advanced-transform.png)
+![astroid-advanced-transform.png](img/astroid-advanced-transform.png)
 
 Typical properties include:
 
@@ -92,7 +90,7 @@ Typical properties include:
 
 This is separate from element animation. Adds **animated visuals behind your content**
 
-![astroid-animation-background.png](img\astroid-animation-background.png)
+![astroid-animation-background.png](img/astroid-animation-background.png)
 
 ## Key settings
 

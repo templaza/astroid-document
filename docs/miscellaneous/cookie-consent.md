@@ -12,14 +12,12 @@ The Cookie Consent feature in **Astroid Framework** allows you to display a noti
 
 ## 1. Enable Cookie Consent
 
-**Option:** `Enable Cookie Consent`
+**Enable Cookie Consent**: Enable or disable the option.
 
 * Toggle **ON** → activates the cookie consent banner on your website
 * Toggle **OFF** → disables it completely
 
 👉 Use this when your site uses tracking tools like Google Analytics or marketing cookies.
-
----
 
 ## 2. Cookie Consent Content
 
@@ -43,23 +41,16 @@ By continuing to use this website, you agree to our use of cookies.
 * Keep it short and clear
 * Mention purpose (analytics, personalization, etc.)
 
----
-
 ## 3. Button Text
 
-**Option:** `Button Text`
-
-* Default text: `I accept`
-* You might change to:
+**Button Text**: Go with the default text **I accept** or You can change to new button text, just should keep it short.
 
    * “Accept”
    * “Accept All Cookies”
 
----
-
 ## 4. Card Style
 
-**Option:** `Card Style` -> Controls the **background style of the consent box**.
+**Card Style**: Controls the **background style of the consent box**.
 
 You can choose one of styles available in the drop-down list, that is suitable for your website's color scheme:
 
@@ -72,11 +63,9 @@ You can choose one of styles available in the drop-down list, that is suitable f
 * Light
 * Dark
 
----
-
 ## 5. Button Style
 
-**Option:** `Button Style` -> Controls the **appearance of the accept button**.
+**Button Style**: Controls the **appearance of the accept button**.
 
 There are also many options available. Choose one that ensure good contrast for accessibility.
 
@@ -89,19 +78,15 @@ There are also many options available. Choose one that ensure good contrast for 
 * Light
 * Dark
 
----
-
 ## 6. Display Position
 
-**Option:** `Display Position` -> This controls where the cookie banner appears:
+**Display Position**: This controls where the cookie banner appears:
 
 Choose one option available: 
 
 * Bottom Left
 * Bottom Right
 * Bottom
-
----
 
 # Limitations of Astroid Cookie Consent
 

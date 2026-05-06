@@ -6,7 +6,7 @@ sidebar_position: 7
 
 The Cookie Consent feature in **Astroid Framework** allows you to display a notification banner informing users about cookie usage and collecting their consent—important for compliance with regulations like GDPR.
 
-![cookie-consent.png](img\cookie-consent.png)
+![cookie-consent.png](img/cookie-consent.png)
 
 ---
 

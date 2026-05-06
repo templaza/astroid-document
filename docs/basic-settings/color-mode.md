@@ -13,13 +13,13 @@ You can see 3 options for Color Mode: Light, Dark vs Light & Dark.
 * Dark mode: Forces the entire site into dark theme only.
 * Light vs Dark Mode: Enables both Light and Dark modes. Users (or system) can switch between them
 
-![astroid-color-mode-dark.png](img\astroid-color-mode-dark.png)
+![astroid-color-mode-light.png](img/astroid-color-mode-light.png)
 
-![astroid-color-mode-light.png](img\astroid-color-mode-light.png)
+![astroid-color-mode-dark.png](img/astroid-color-mode-dark.png)
 
 ## Light vs dark mode
 
-![astroid-color-lightvsdark.png](img\astroid-color-lightvsdark.png)
+![astroid-color-lightvsdark.png](img/astroid-color-lightvsdark.png)
 
 When the light vs dark mode is enabled, you will have some options below: 
 

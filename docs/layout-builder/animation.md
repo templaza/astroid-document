@@ -5,7 +5,7 @@ sidebar_position: 6
 Astroid 3.4.0 introduced a **completely upgraded animation engine** not just simple fade/slide effects, but a **multi-layer system**:
 
 * ✅ Basic animations (quick effects)
-* ✅ Transform Scenes (advanced, interactive animations)(Available for Astroid Pro only)
+* ✅ Transform Scenes (advanced, interactive animations)(**Available for Astroid Pro only**)
 * ✅ Animated backgrounds (visual effects layer)
 
 This makes it possible to build **interactive, scroll-based or mouse-based animations** similar to modern UI frameworks. ([forum.joomla.de][1])
@@ -14,7 +14,7 @@ This makes it possible to build **interactive, scroll-based or mouse-based anima
 
 # 1. Animation (Basic) – Quick Effects
 
-Adds **simple entrance animations** to elements (sections, columns, modules).
+Adds **simple entrance animations** to sections, columns, and elements.
 
 ![astroid-animation-basic.png](img/astroid-animation-basic.png)
 

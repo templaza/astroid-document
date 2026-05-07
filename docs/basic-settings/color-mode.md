@@ -7,11 +7,11 @@ sidebar_position: 6
 ## Color Mode Settings
 
 Go to Template styles > open your style > Template Options > Basic > Page Settings > Color mode
-You can see 3 options for Color Mode: Light, Dark vs Light & Dark. 
+You can see 3 options for Color Mode: Light, Dark vs Light & Dark.
 
-* Light mode: Forces the entire website to use light theme only, No switching, no dark version.
-* Dark mode: Forces the entire site into dark theme only.
-* Light vs Dark Mode: Enables both Light and Dark modes. Users (or system) can switch between them
+* **Light mode**: Forces the entire website to use light theme only, No switching, no dark version.
+* **Dark mode**: Forces the entire site into dark theme only.
+* **Light vs Dark Mode**: Enables both Light and Dark modes. Users (or system) can switch between them
 
 ## Light vs dark mode
 

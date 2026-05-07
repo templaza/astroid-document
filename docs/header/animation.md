@@ -8,8 +8,6 @@ The **Animation** panel controls how your **mega menu / dropdown menu** appears 
 
 It’s not just visual polish, it directly impacts **UX, focus, and perceived performance**.
 
-![astroid-header-animation.png](img/astroid-header-animation.png)
-
 ---
 
 ## 1. Animation Type

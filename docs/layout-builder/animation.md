@@ -16,8 +16,6 @@ This makes it possible to build **interactive, scroll-based or mouse-based anima
 
 Adds **simple entrance animations** to sections, columns, and elements.
 
-![astroid-animation-basic.png](img/astroid-animation-basic.png)
-
 ### How to use
 
 * Go to: Element / Column / Section → **Animation tab**
@@ -68,8 +66,6 @@ Transform Scenes
 
 ### Step 2: Configure animation behavior
 
-![astroid-advanced-transform.png](img/astroid-advanced-transform.png)
-
 Typical properties include:
 
 * Move (X, Y movement): Move allows you to animate the position of an element along the X and Y axes. You can specify the start and end points of the animation.
@@ -89,8 +85,6 @@ Typical properties include:
 # 3. Animation Background – Visual Effects Layer
 
 This is separate from element animation. Adds **animated visuals behind your content**
-
-![astroid-animation-background.png](img/astroid-animation-background.png)
 
 ## Key settings
 

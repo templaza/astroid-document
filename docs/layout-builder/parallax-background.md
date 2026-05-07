@@ -16,8 +16,6 @@ This creates a depth illusion (3D-like feel) instead of a flat page. Besides, it
 
 ## Background Image + Attachment
 
-![astroid-bg-img.png](img/astroid-bg-img.png)
-
 From Astroid layout, you can edit a section > Settings
 
 * You can choose a background type: **image** or **video** 
@@ -30,16 +28,10 @@ From Astroid layout, you can edit a section > Settings
 
 > **Background Attachment = Fixed**: This makes the image stay in place while content scrolls → classic parallax effect.
 
----
-
 ## Enable Parallax Effect Option
 
 After uploading a background image, you can enable the parallax option:
 * **Enable parallax effect:** Enable parallax effect for the background image. When enabled, the background image will move at a different speed than the foreground content as you scroll, creating a sense of depth and immersion.
-
-![astroid-parallax-option.png](img/astroid-parallax-option.png)
-
----
 
 ### Parallax Speed
 
@@ -55,8 +47,6 @@ Example values:
 
 Use 0.3 – 0.6 for smooth, professional feel, and avoid extreme values unless for creative effects.
 
----
-
 ### Scrub (seconds)
 
 **Scrub:** Controls how smooth/delayed the animation follows scroll.
@@ -70,8 +60,6 @@ Use 0.3 – 0.6 for smooth, professional feel, and avoid extreme values unless f
 
 0.5 – 1.5 → smooth and responsive
 2+ → cinematic but slightly laggy feel
-
----
 
 # Parallax Demo
 

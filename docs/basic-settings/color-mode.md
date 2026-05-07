@@ -7,11 +7,11 @@ sidebar_position: 6
 ## Color Mode Settings
 
 Go to Template styles > open your style > Template Options > Basic > Page Settings > Color mode
-You can see 3 options for Color Mode: Light, Dark vs Light & Dark. 
+You can see 3 options for Color Mode: Light, Dark vs Light & Dark.
 
-* Light mode: Forces the entire website to use light theme only, No switching, no dark version.
-* Dark mode: Forces the entire site into dark theme only.
-* Light vs Dark Mode: Enables both Light and Dark modes. Users (or system) can switch between them
+* **Light mode**: Forces the entire website to use light theme only, No switching, no dark version.
+* **Dark mode**: Forces the entire site into dark theme only.
+* **Light vs Dark Mode**: Enables both Light and Dark modes. Users (or system) can switch between them
 
 ![astroid-color-mode-light.png](img/astroid-color-mode-light.png)
 
@@ -23,10 +23,10 @@ You can see 3 options for Color Mode: Light, Dark vs Light & Dark.
 
 When the light vs dark mode is enabled, you will have some options below: 
 
-* Color transform: Color transform is a feature that allows you to change the color from light to dark or vice versa.
-* Color mode default: Choose your color mode style (Auto, Light or Dark)
-* Module position: Select a suitable module position where you want to display this feature.
-* Feature Load Position: Choose After Module or Before Module. 
+* **Color transform**: Color transform is a feature that allows you to change the color from light to dark or vice versa.
+* **Color mode default**: Choose your color mode style (Auto, Light or Dark)
+* **Module position**: Select a suitable module position where you want to display this feature.
+* **Feature Load Position**: Choose After Module or Before Module. 
   If there are other module(s) published to this module position, you can select to display the content of this feature either below or after the module(s) published to this position.
 
 ## Adjust the color modes

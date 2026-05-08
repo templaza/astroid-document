@@ -2,17 +2,18 @@
 sidebar_position: 9
 ---
 
-# Cursor Effect – Astroid Pro Feature
+# Cursor Effect
 
 Cursor Effect is one of the features that Astroid Pro offers. It helps to add visual animations that follow the mouse movement across the website. This feature works globally across the website.
-
+You can go to Site template styles > Edit your template style > Template Options > Basic > Cursor Effect. 
+For free Astroid version, this feature is locked. 
 ---
 
 ## 1. Enable Cursor Effect
 
 Turn this option ON to activate the custom cursor system.
 
-### Practical Usage
+#### Practical Usage
 
 Use this when:
 
@@ -21,7 +22,7 @@ Use this when:
 * Creating portfolio experiences
 * Enhancing interactive UI
 
-### Avoid Using When
+#### Avoid Using When
 
 * Your audience prefers simple interfaces
 * Building highly corporate or traditional websites
@@ -37,19 +38,19 @@ Below is a practical explanation for each effect.
 
 Creates a solid animated circle following the mouse pointer.
 
-### Visual Style
+#### Visual Style
 
 * Clean
 * Modern
 * Minimal
 
-### Best For
+#### Best For
 
 * Corporate websites
 * SaaS landing pages
 * Minimal portfolio sites
 
-### Advantages
+#### Advantages
 
 * Lightweight
 * Smooth appearance
@@ -59,19 +60,19 @@ Creates a solid animated circle following the mouse pointer.
 
 Displays two circular cursor elements moving together.
 
-### Visual Style
+#### Visual Style
 
 * Dynamic
 * Interactive
 * Stylish
 
-### Best For
+#### Best For
 
 * Agencies
 * Interactive portfolios
 * Creative studios
 
-### User Experience
+#### User Experience
 
 Creates depth and motion feeling.
 
@@ -79,19 +80,19 @@ Creates depth and motion feeling.
 
 Adds blur/glow filtering to the double-circle cursor.
 
-### Visual Style
+#### Visual Style
 
 * Neon-like
 * Futuristic
 * Premium feel
 
-### Best For
+#### Best For
 
 * Dark mode websites
 * Gaming sites
 * Creative showcases
 
-### Important
+#### Important
 
 May slightly increase GPU rendering usage.
 
@@ -99,19 +100,19 @@ May slightly increase GPU rendering usage.
 
 Creates a trailing cursor with delayed movement.
 
-### Visual Style
+#### Visual Style
 
 * Smooth
 * Elegant
 * Cinematic
 
-### Best For
+#### Best For
 
 * Luxury brands
 * Animation-heavy websites
 * Storytelling pages
 
-### Practical Tip
+#### Practical Tip
 
 Works especially well with smooth scrolling enabled.
 
@@ -119,13 +120,13 @@ Works especially well with smooth scrolling enabled.
 
 Several circles follow the cursor simultaneously.
 
-### Visual Style
+#### Visual Style
 
 * Energetic
 * Experimental
 * Highly animated
 
-### Best For
+#### Best For
 
 * Experimental design
 * Interactive demos
@@ -139,12 +140,12 @@ Can become visually overwhelming on content-heavy websites.
 
 A filled cursor combined with glow or blur effects.
 
-### Visual Style
+#### Visual Style
 
 * Soft glow
 * Premium interaction
 
-### Best For
+#### Best For
 
 * Modern UI design
 * Dark/light hybrid themes
@@ -154,13 +155,13 @@ A filled cursor combined with glow or blur effects.
 
 Displays an outlined cursor ring with animated filter effects.
 
-### Visual Style
+#### Visual Style
 
 * Elegant
 * Lightweight
 * Technical
 
-### Best For
+#### Best For
 
 * Tech startups
 * Modern dashboard websites
@@ -174,19 +175,19 @@ Combines:
 * Motion delay
 * Blur/filter effects
 
-### Visual Style
+#### Visual Style
 
 * Advanced
 * High-end interaction
 * Smooth cinematic movement
 
-### Best For
+#### Best For
 
 * Premium portfolios
 * Interactive storytelling
 * Modern agency websites
 
-### Performance Note
+#### Performance Note
 
 This is one of the heaviest cursor presets visually. Test carefully on mobile and lower-end devices.
 
@@ -194,13 +195,13 @@ This is one of the heaviest cursor presets visually. Test carefully on mobile an
 
 Most cursor effects are designed primarily for desktop devices because mobile devices do not use mouse pointers.
 
-### Recommendation
+#### Recommendation
 
 Use subtle effects and always test responsiveness.
 
 # Troubleshooting
 
-## Cursor Not Appearing
+### Cursor Not Appearing
 
 Check:
 
@@ -208,7 +209,7 @@ Check:
 * Browser cache cleared
 * JavaScript optimization is not blocking scripts
 
-## Laggy Cursor Animation
+### Laggy Cursor Animation
 
 Try:
 
@@ -216,7 +217,7 @@ Try:
 * Disabling heavy filter effects
 * Testing without additional animation libraries
 
-## Cursor Looks Incorrect on Mobile
+### Cursor Looks Incorrect on Mobile
 
 This is expected in some cases because touch devices do not support traditional cursor behavior.
 

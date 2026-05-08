@@ -12,9 +12,10 @@ This creates a depth illusion (3D-like feel) instead of a flat page. Besides, it
     * Call-to-action blocks
     * Landing pages
 
----
 
 ## Background Image + Attachment
+
+![astroid-bg-img.png](img/astroid-bg-img.png)
 
 From Astroid layout, you can edit a section > Settings
 
@@ -29,6 +30,8 @@ From Astroid layout, you can edit a section > Settings
 > **Background Attachment = Fixed**: This makes the image stay in place while content scrolls → classic parallax effect.
 
 ## Enable Parallax Effect Option
+
+![astroid-parallax-option.png](img/astroid-parallax-option.png)
 
 After uploading a background image, you can enable the parallax option:
 * **Enable parallax effect:** Enable parallax effect for the background image. When enabled, the background image will move at a different speed than the foreground content as you scroll, creating a sense of depth and immersion.

@@ -10,6 +10,8 @@ It’s not just visual polish, it directly impacts **UX, focus, and perceived pe
 
 ---
 
+![astroid-header-animation.png](img/astroid-header-animation.png)
+
 ## 1. Animation Type
 
 Choose an animation type to define **how the dropdown appears**.
@@ -49,15 +51,13 @@ Menu items appear sequentially and creates a cascade animation.
 
 ### Example:
 
-Instead of:
+Instead of appearing instantly…
 
 ```
 Item 1
 Item 2
 Item 3
 ```
-
-Appearing instantly…
 
 They appear like:
 

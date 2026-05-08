@@ -8,6 +8,8 @@ The Cookie Consent feature in **Astroid Framework** allows you to display a noti
 
 ---
 
+![cookie-consent.png](img/cookie-consent.png)
+
 ## 1. Enable Cookie Consent
 
 **Enable Cookie Consent**: Enable or disable the option.

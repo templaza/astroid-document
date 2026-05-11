@@ -7,7 +7,10 @@ sidebar_position: 9
 Cursor Effect is one of the features that Astroid Pro offers. It helps to add visual animations that follow the mouse movement across the website. This feature works globally across the website.
 You can go to Site template styles > Edit your template style > Template Options > Basic > Cursor Effect. 
 For free Astroid version, this feature is locked. 
+
 ---
+
+![astroid-cursor-effect.png](img/astroid-cursor-effect.png)
 
 ## 1. Enable Cursor Effect
 

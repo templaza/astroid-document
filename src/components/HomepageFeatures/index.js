@@ -77,7 +77,7 @@ const FeatureList = [
     },
     {
         title: 'Developer Guilds',
-        link: '/category/developer-guilds',
+        link: '/category/developer-guide',
         description: (
             <>
                 The purpose of this guide is to give developers an up to date guide showing best practice in writing and maintaining Astroid Widgets or modify Astroid.

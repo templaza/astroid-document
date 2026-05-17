@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
 Astroid 3.4.0 introduced a **completely upgraded animation engine** not just simple fade/slide effects, but a **multi-layer system**:
@@ -66,6 +66,8 @@ Transform Scenes
 
 ### Step 1: Click **Add Item** to create a scene
 
+![astroid-transform-addnew.png](img/astroid-transform-addnew.png)
+
 ### Step 2: Configure animation behavior
 
 ![astroid-advanced-transform.png](img/astroid-advanced-transform.png)
@@ -77,7 +79,12 @@ Typical properties include:
 * Rotate: Rotate allows you to animate the rotation of an element around a specified axis. You can specify the start and end angles of the rotation.
 * Scale (zoom in/out): Scale allows you to animate the size of an element. You can specify the start and end scale values for both the X and Y axes.
 * Skew: Skew allows you to animate the skewing of an element along the X and Y axes. You can specify the start and end skew angles for both axes.
-* Tween Settings: A Tween is what does all the animation work - think of it like a high-performance property setter. You feed in targets (the objects you want to animate), a duration, and any properties you want to animate and when its playhead moves to a new position, it figures out what the property values should be at that point applies them accordingly.
+* Tween Settings:
+
+### Step 3: Define trigger
+
+* Scroll-based (most common)
+* Mouse movement (parallax-like)
 
 ---
 

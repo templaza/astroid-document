@@ -66,6 +66,10 @@ Transform Scenes
 
 ### Step 1: Click **Add Item** to create a scene
 
+Click on **Add Item** button to create a new animation scene.
+
+![astroid-transform-addnew.png](img/astroid-transform-addnew.png)
+
 ### Step 2: Configure animation behavior
 
 ![astroid-advanced-transform.png](img/astroid-advanced-transform.png)

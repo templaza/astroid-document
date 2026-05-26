@@ -2,112 +2,143 @@
 sidebar_position: 4
 ---
 
-## 1. Overview
+# Courts Page
 
-The **theme footer** is created using a **Sub-Layout**.
-This sub-layout is then inserted into the **Main Layout**, allowing you to reuse and manage the footer content easily.
-Please go to Joomla Admin > Site Template Styles > astroid_sbona - Default > Layout > Sub-layout.
+The Courts page of Sbona Sports and Outdoor Joomla Template is designed to present sports facilities in a modern, energetic, and highly professional way. Inspired by real-world sports club booking systems, this page combines dynamic visuals with practical functionality, making it ideal for tennis clubs, pickleball centers, padel courts, badminton arenas, and multi-sport facilities.
 
-![sbona-footer.png](img/sbona-footer.png)
+## Single Court
 
----
+### How to Create a Single Court Article Using Astroid Article Layout Builder
 
-## 2. Understanding the Footer Structure
+The Astroid Framework includes a powerful [**Article Layout Builder**](https://docs.astroidframe.work/layout-builder/article-layout-builder) that allows you to create fully customized single article pages without writing code. In the Sbona Sports and Outdoor Joomla Template, this feature is used to build professional court detail pages with galleries, maps, booking forms, and custom content sections. ([docs.astroidframe.work][1])
 
-### 2.1 Sections
+This guide will show you how to create a complete **Single Court Article** using the Astroid Article Layout Builder.
 
-The footer is divided into **sections**
+#### What You Will Build
 
-Each section can contain:
+A typical court detail page in Sbona may include:
 
-* One or more rows
-* Multiple content blocks (text, image, links, etc.)
+* Court title and featured image
+* Court gallery
+* Description text
+* Location map
+* Court information
+* Booking form
+* Additional custom widgets
 
----
+The entire layout is managed visually through Astroid’s drag-and-drop system.
 
-### 2.2 Rows and Columns
+#### Step 1 — Create an Article Layout
 
-Inside each section:
+Go to:
 
-* Content is arranged in **columns**
-* Column width is controlled by dropdowns like `col-lg-2`, `col-lg-4`, `col-lg-6`
+**Administrator → Templates → Styles → astroid_sbona - Default → Template Options**
 
-**Example:**
+Then navigate to:
 
-* `col-lg-2` = small column
-* `col-lg-4` = medium column
-* `col-lg-6` = half width
+**Article/Blog → Article Layout Builder** → **New Layout**
 
-👉 Column sizes affect **desktop view**. Tablet and mobile views auto-adjust.
+You can either:
 
----
+* Build the layout manually using **Add Section**
+* Or use **Load Default Settings** as a starting point.
 
-## 3. Footer Content Blocks
+#### Step 2 — Add Layout Sections
 
-Each box inside a column is a **content block**.
+Inside the Article Layout Builder:
 
-### Common footer blocks include:
+1. Click **Add Section**
+2. Add rows and columns
+3. Insert widgets and article elements
 
-* **About Us** – Text description
-* **Links** – Menu or quick links
-* **Support** – Help or contact info
-* **Follow Us** – Social media links
-* **Image** – Logo or footer image
-* **Phone Number** – Contact phone
-* **Text** – Custom text content
+Astroid layouts are structured with:
 
----
+* Sections
+* Rows
+* Columns
+* Elements/Widgets
 
-## 4. Editing Footer Content
+#### Step 3 — Add Court Widgets
 
-1. Click on a content block (e.g. *About Us*)
-2. Update the text, image, or links
-3. Click **Save** when finished
+After creating sections, click:
 
-Changes apply instantly after saving.
+**Add Element**
 
----
+Then choose the widgets you want to use. Typical widgets for a Court article include:
 
-## 5. Adding New Content
+* Text Widget
+* Heading Widget
+* Gallery Widget
+* Map Widget
+* Form Builder Widget
 
-### Add a new content block
+Astroid allows widget default values to be configured directly inside the layout builder. These values can later be overridden per article.
+Here below is a prebuilt Court Article Layout:
 
-* Click the **➕ (Plus)** icon inside a column
-* Choose the content type (Text, Image, Links, etc.)
+![sbona-court-layout-builder.png](img/sbona-court-layout-builder.png)
 
-### Add a new row
+#### Step 4 — Configure Widgets in the Article
 
-* Click **+ New Row**
+After saving the layout, create or edit your Court article:
 
-### Add a new section
+**Administrator → Content → Articles**, Open your article and go to the **Widgets** tab.
 
-* Click **+ New Section**
+![img/sbona-court-widget.png](img/sbona-court-widget.png)
 
----
+You will see all widgets added in the Article Layout Builder, and customize the content for each widget individually:
 
-## 6. Device Preview
+* Upload court gallery images
+* Add Google Map location
+* Edit descriptions
+* Configure booking forms
+* Add court-specific information
 
-At the top of the editor, you can switch between:
+This override system allows you to reuse one layout for multiple courts while keeping each article unique.
 
-* 🖥 Desktop
-* 💻 Laptop
-* 📱 Tablet
-* 📱 Mobile
+#### Step 5 — Assign the Layout to Your Court Category
 
-Use these to ensure the footer looks good on all devices.
+To apply the layout to all court articles, please go to: **Administrator → Content → Categories**
 
----
+Edit your Court category and open: **Single Blog Options**
 
-## 7. Footer background
+Then:
 
-* Go to Layouts > Sub-layout in your theme settings. Select the sub-layout used for the footer.
-* Find the section containing the whole footer > Click the pencil icon (highlighted in the screenshot). This opens the section settings panel.
-* In the Design tab, you can see options to change the background image and background color.
+1. Select your Astroid template
+2. Choose the created Article Layout
+3. Save the category
 
----
+Now every article inside this category will automatically use the Court layout.
 
-## 8. How the Footer Appears on the Website
+## Court Listing Page
 
-* The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save.
-* Any changes you make in the sub-layout will be automatically updated in the website footer.
-* No additional setup is required.
+The Court Listing Page is the main archive page that displays multiple court articles from a selected category.
+
+### Create the Court Listing Menu Item
+
+Go to: **Administrator → Menus → Main Menu > Click New**
+
+![astroid-animation-basic.png](img/astroid-animation-basic.png)
+
+The Category Blog layout is used to automatically display all court articles from the selected category.
+
+| Setting           | Value         |
+| ----------------- | ------------- |
+| Menu Item Type    | Category Blog |
+| Choose a Category | Courts        |
+| Title             | Courts        |
+
+### BLog Layout Options
+
+Joomla Administrator → Menus → Court Menu → **Blog Layout** Tab.
+
+The Blog Layout tab allows you to control how articles are displayed in your Astroid-powered blog or listing page. This is commonly used for pages such as Courts, Teams, News, Events, or Blog archives.
+
+![sbona-blog-layout-options.png](img/sbona-blog-layout-options.png)
+
+### Other Options
+
+Joomla Administrator → Menus → Court Menu → **Options** Tab.
+
+The Options tab controls how article information and metadata are displayed on your Astroid blog or listing page. These settings help you customize the appearance of article cards, blog posts, news listings, and directory layouts.
+
+![sbona-blog-other-options.png](img/sbona-blog-other-options.png)

@@ -89,24 +89,7 @@ A Timeline is a powerful sequencing tool that acts as a container for tweens and
 
 * **Animation Element**: Specify which HTML element receives the animation. Example: `.card`  This means all elements with class .card will animate.
 
-Common Selector: 
-
-| Selector   | Description                   |
-
-| .card      | Animate card elements           |
-| .title     | Animate titles                  |
-| #hero      | Animate specific element        |
-| .image img | Animate images inside container |
-
-
 * **Repeat**: You can specify the number of times the animation should repeat, or set it to -1 for infinite repetition.
-
-| Value | Result       |
-
-| 0   | Play once      |
-| 1   | Repeat once    |
-| 5   | Repeat 5 times |
-| -1  | Infinite loop  |
 
 * **Recommended Usage**
 Use 0 for scroll animations
@@ -118,36 +101,16 @@ Scroll Settings allow you to control how the animation is triggered by scroll ev
 
 * **Start**: The point at which the animation will start as the user scrolls. This can be defined in pixels or as a percentage of the viewport height. Ex: top 80%
 
-Common Start Values
+Common Start Values:
 
-| Value         | Effect                   |
-| top 100%      | Starts late                |
-| top 85%       | Smooth standard trigger    |
-| top 50%       | Starts earlier             |
-| center center | Trigger at viewport center |
+top 100%: Starts late                
+top 85%: Smooth standard trigger   
+top 50%: Starts earlier             
+center center: Trigger at viewport center 
 
 * **End**: The point at which the animation will end as the user scrolls. This can be defined in pixels or as a percentage of the viewport height. Ex: top 80% +=500
 
-Practical Examples:
-
-| Value  | Result              |
-
-| +=300  | Short animation       |
-| +=500  | Standard duration     |
-| +=1000 | Long cinematic scroll |
-
-
-* **Scrub**: 
-
-Scrub controls animation smoothness. Ex: 1.7 Means The animation smoothly catches up to the scroll position over 1.7 seconds.
-
-Recommended Values: 
-
-| Value | Effect                |
-| 0   | Immediate response      |
-| 0.5 | Slight smoothing        |
-| 1.5 | Smooth cinematic effect |
-| 3 | Very slow motion        |
+* **Scrub**: Scrub controls animation smoothness. Ex: 1.7 Means The animation smoothly catches up to the scroll position over 1.7 seconds.
 
 * **Pin**: Pin keeps an element fixed while scrolling.
 

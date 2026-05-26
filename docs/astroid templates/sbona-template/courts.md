@@ -30,13 +30,9 @@ The entire layout is managed visually through Astroid’s drag-and-drop system.
 
 #### Step 1 — Create an Article Layout
 
-Go to:
+Go to: **Administrator → Templates → Styles → astroid_sbona - Default → Template Options**
 
-**Administrator → Templates → Styles → astroid_sbona - Default → Template Options**
-
-Then navigate to:
-
-**Article/Blog → Article Layout Builder** → **New Layout**
+Then navigate to: **Article/Blog → Article Layout Builder** → **New Layout**
 
 You can either:
 
@@ -60,9 +56,7 @@ Astroid layouts are structured with:
 
 #### Step 3 — Add Court Widgets
 
-After creating sections, click:
-
-**Add Element**
+After creating sections, click: **Add Element**
 
 Then choose the widgets you want to use. Typical widgets for a Court article include:
 
@@ -117,14 +111,13 @@ The Court Listing Page is the main archive page that displays multiple court art
 
 Go to: **Administrator → Menus → Main Menu > Click New**
 
-![astroid-animation-basic.png](img/astroid-animation-basic.png)
+![sbona-court-menu.png](img/sbona-court-menu.png)
 
 The Category Blog layout is used to automatically display all court articles from the selected category.
 
-| Setting           | Value         |
-| Menu Item Type    | Category Blog |
-| Choose a Category | Courts        |
-| Title             | Courts        |
+* Menu Item Type: Category Blog
+* Choose A Category: Courts
+* Template Style: Default
 
 ### BLog Layout Options
 

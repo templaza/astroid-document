@@ -10,8 +10,6 @@ Please go to Joomla Admin > Site Template Styles > astroid_sbona - Default > Lay
 
 ![sbona-footer.png](img/sbona-footer.png)
 
----
-
 ## 2. Understanding the Footer Structure
 
 ### 2.1 Sections
@@ -22,8 +20,6 @@ Each section can contain:
 
 * One or more rows
 * Multiple content blocks (text, image, links, etc.)
-
----
 
 ### 2.2 Rows and Columns
 
@@ -40,8 +36,6 @@ Inside each section:
 
 👉 Column sizes affect **desktop view**. Tablet and mobile views auto-adjust.
 
----
-
 ## 3. Footer Content Blocks
 
 Each box inside a column is a **content block**.
@@ -56,19 +50,17 @@ Each box inside a column is a **content block**.
 * **Phone Number** – Contact phone
 * **Text** – Custom text content
 
----
-
 ## 4. Editing Footer Content
 
-1. Click on a content block (e.g. *About Us*)
+1. Click on a content block (e.g. About Us)
 2. Update the text, image, or links
 3. Click **Save** when finished
 
 Changes apply instantly after saving.
 
----
-
 ## 5. Adding New Content
+
+![sbona-footer-layout.png](img/sbona-footer-layout.png)
 
 ### Add a new content block
 
@@ -83,8 +75,6 @@ Changes apply instantly after saving.
 
 * Click **+ New Section**
 
----
-
 ## 6. Device Preview
 
 At the top of the editor, you can switch between:
@@ -96,17 +86,15 @@ At the top of the editor, you can switch between:
 
 Use these to ensure the footer looks good on all devices.
 
----
-
 ## 7. Footer background
 
 * Go to Layouts > Sub-layout in your theme settings. Select the sub-layout used for the footer.
 * Find the section containing the whole footer > Click the pencil icon (highlighted in the screenshot). This opens the section settings panel.
 * In the Design tab, you can see options to change the background image and background color.
 
----
-
 ## 8. How the Footer Appears on the Website
+
+![sbona-footer-sublayout.png](img/sbona-footer-sublayout.png)
 
 * The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save.
 * Any changes you make in the sub-layout will be automatically updated in the website footer.

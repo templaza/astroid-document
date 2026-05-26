@@ -8,10 +8,6 @@ Astroid 3.4.0 introduced a **completely upgraded animation engine** not just sim
 * ✅ Transform Scenes 
 * ✅ Animated backgrounds (**Available for Astroid Pro only**)
 
-This makes it possible to build **interactive, scroll-based or mouse-based animations** similar to modern UI frameworks. ([forum.joomla.de][1])
-
----
-
 # 1. Animation (Basic) – Quick Effects
 
 Adds **simple entrance animations** to sections, columns, and elements.
@@ -87,7 +83,7 @@ Typical properties include:
 
 A Timeline is a powerful sequencing tool that acts as a container for tweens and other timelines, making it simple to control them as a whole and precisely manage their timing.
 
-* **Animation Element**: Specify which HTML element receives the animation. Example: `.card`  This means all elements with class .card will animate.
+* **Animation Element**: Specify which HTML element receives the animation. Example: .card  This means all elements with class .card will animate.
 
 * **Repeat**: You can specify the number of times the animation should repeat, or set it to -1 for infinite repetition.
 

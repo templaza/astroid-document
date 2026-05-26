@@ -79,7 +79,7 @@ Typical properties include:
 
 ## Timeline Settings
 
-![astroid-animation-advanced2](img/astroid-animation-advanced2)
+![astroid-animation-advanced2.png](img/astroid-animation-advanced2.png)
 
 A Timeline is a powerful sequencing tool that acts as a container for tweens and other timelines, making it simple to control them as a whole and precisely manage their timing.
 

@@ -77,7 +77,7 @@ After saving the layout, create or edit your Court article:
 
 **Administrator → Content → Articles**, Open your article and go to the **Widgets** tab.
 
-![img/sbona-court-widget.png](img/sbona-court-widget.png)
+![sbona-court-widget.png](img/sbona-court-widget.png)
 
 You will see all widgets added in the Article Layout Builder, and customize the content for each widget individually:
 

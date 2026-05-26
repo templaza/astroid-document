@@ -75,11 +75,11 @@ Typical properties include:
 * Rotate: Rotate allows you to animate the rotation of an element around a specified axis. You can specify the start and end angles of the rotation.
 * Scale (zoom in/out): Scale allows you to animate the size of an element. You can specify the start and end scale values for both the X and Y axes.
 * Skew: Skew allows you to animate the skewing of an element along the X and Y axes. You can specify the start and end skew angles for both axes.
-* Tween Settings:
+* Tween Settings: A Tween is what does all the animation work - think of it like a high-performance property setter. You feed in targets (the objects you want to animate), a duration, and any properties you want to animate and when its playhead moves to a new position, it figures out what the property values should be at that point applies them accordingly.
 
 ## Timeline Settings
 
-![astroid-animation-advanced2.png](img/astroid-animation-advanced2.png)
+![astroid-animation-advanced.png](img/astroid-animation-advanced.png)
 
 A Timeline is a powerful sequencing tool that acts as a container for tweens and other timelines, making it simple to control them as a whole and precisely manage their timing.
 
@@ -87,7 +87,7 @@ A Timeline is a powerful sequencing tool that acts as a container for tweens and
 
 * **Repeat**: You can specify the number of times the animation should repeat, or set it to -1 for infinite repetition.
 
-* **Recommended Usage**
+* **Recommended Usage**: 
 Use 0 for scroll animations
 Use -1 for floating or decorative effects
 
@@ -110,12 +110,8 @@ center center: Trigger at viewport center
 
 * **Pin**: Pin keeps an element fixed while scrolling.
 
-* **Marker**: Markers display visual debugging indicators on the page. When enabled, Astroid shows:
-
-Animation start point
-Animation end point
-Trigger locations
-
+* **Marker**: Markers display visual debugging indicators on the page.
+  
 * **Toggle Action**: Toggle Actions control animation behavior during scrolling events.
 
 # 3. Animation Background – Visual Effects Layer

@@ -10,7 +10,7 @@ The Courts page of Sbona Sports and Outdoor Joomla Template is designed to prese
 
 ### How to Create a Single Court Article Using Astroid Article Layout Builder
 
-The Astroid Framework includes a powerful [**Article Layout Builder**](https://docs.astroidframe.work/layout-builder/article-layout-builder) that allows you to create fully customized single article pages without writing code. In the Sbona Sports and Outdoor Joomla Template, this feature is used to build professional court detail pages with galleries, maps, booking forms, and custom content sections. ([docs.astroidframe.work][1])
+The Astroid Framework includes a powerful [Article Layout Builder](https://docs.astroidframe.work/layout-builder/article-layout-builder) that allows you to create fully customized single article pages without writing code. In the Sbona Sports and Outdoor Joomla Template, this feature is used to build professional court detail pages with galleries, maps, booking forms, and custom content sections. ([docs.astroidframe.work][1])
 
 This guide will show you how to create a complete **Single Court Article** using the Astroid Article Layout Builder.
 

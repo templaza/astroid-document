@@ -122,7 +122,6 @@ Go to: **Administrator → Menus → Main Menu > Click New**
 The Category Blog layout is used to automatically display all court articles from the selected category.
 
 | Setting           | Value         |
-| ----------------- | ------------- |
 | Menu Item Type    | Category Blog |
 | Choose a Category | Courts        |
 | Title             | Courts        |

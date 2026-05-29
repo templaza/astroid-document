@@ -50,21 +50,19 @@ Example values:
 
 📌 **Recommendation:**
 
-Use 0.3 – 0.6 for smooth, professional feel, and avoid extreme values unless for creative effects.
+- Use 0.3 – 0.6 for smooth, professional feel, and avoid extreme values unless for creative effects.
 
 #### Scrub (seconds)
 
 **Scrub:** Controls how smooth/delayed the animation follows scroll.
 
-- Lower value (e.g. 0 – 0.5)
-→ animation follows scroll immediately
-- Higher value (e.g. 1 – 3)
-→ animation has a delay / easing effect
+- Lower value (e.g. 0 – 0.5) → animation follows scroll immediately
+- Higher value (e.g. 1 – 3) → animation has a delay / easing effect
 
 📌 **Recommendation:**
 
-0.5 – 1.5 → smooth and responsive
-2+ → cinematic but slightly laggy feel
+- 0.5 – 1.5 → smooth and responsive
+- 2+ → cinematic but slightly laggy feel
 
 
 

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Footer
+
 ## 1. Overview
 
 The **theme footer** is created using a **Sub-Layout**.
@@ -97,5 +99,4 @@ Use these to ensure the footer looks good on all devices.
 ![sbona-footer-sublayout.png](img/sbona-footer-sublayout.png)
 
 * The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save.
-* Any changes you make in the sub-layout will be automatically updated in the website footer.
-* No additional setup is required.
+* Any changes you make in the sub-layout will be automatically updated in the website footer. No additional setup is required.

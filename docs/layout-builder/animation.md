@@ -8,7 +8,7 @@ Astroid 3.4.0 introduced a **completely upgraded animation engine** not just sim
 * ✅ Transform Scenes 
 * ✅ Animated backgrounds (**Available for Astroid Pro only**)
 
-This makes it possible to build **interactive, scroll-based or mouse-based animations** similar to modern UI frameworks. ([forum.joomla.de][1])
+This makes it possible to build **interactive, scroll-based or mouse-based animations**.
 
 ---
 
@@ -35,8 +35,6 @@ Adds **simple entrance animations** to sections, columns, and elements.
 ### Best practice
 
 * You can use **only 1–2 animation styles per page**, and avoid overuse that hurts UX.
-
----
 
 # 2. Transform (Advanced) – (Astroid Pro Only)
 
@@ -82,8 +80,6 @@ Typical properties include:
 * Scale (zoom in/out): Scale allows you to animate the size of an element. You can specify the start and end scale values for both the X and Y axes.
 * Skew: Skew allows you to animate the skewing of an element along the X and Y axes. You can specify the start and end skew angles for both axes.
 * Tween Settings: A Tween is what does all the animation work - think of it like a high-performance property setter. You feed in targets (the objects you want to animate), a duration, and any properties you want to animate and when its playhead moves to a new position, it figures out what the property values should be at that point applies them accordingly.
-
----
 
 # 3. Animation Background – Visual Effects Layer
 

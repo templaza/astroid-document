@@ -2,13 +2,15 @@
 sidebar_position: 3
 ---
 
+# Animations
+
 Astroid 3.4.0 introduced a **completely upgraded animation engine** not just simple fade/slide effects, but a **multi-layer system**:
 
 * ✅ Basic animations
 * ✅ Transform Scenes 
 * ✅ Animated backgrounds (**Available for Astroid Pro only**)
 
-# 1. Animation (Basic) – Quick Effects
+## 1. Animation (Basic) – Quick Effects
 
 Adds **simple entrance animations** to sections, columns, and elements.
 
@@ -32,9 +34,9 @@ Adds **simple entrance animations** to sections, columns, and elements.
 
 * You can use **only 1–2 animation styles per page**, and avoid overuse that hurts UX.
 
-# 2. Transform (Advanced)
+## 2. Transform (Advanced)
 
-## Concept: “Scenes”
+### Concept: “Scenes”
 
 A **Transform Scene = a step-based animation timeline**
 Transform Scenes are a powerful way to create complex, multi-step animations that are triggered by scroll or mouse movement. Each scene can have its own unique animation properties, allowing you to create dynamic and engaging animations that respond to user interactions. With Transform Scenes, you can easily create animations that are triggered by scroll or mouse movement, making it easy to add interactivity and engagement to your website.
@@ -45,7 +47,7 @@ You can:
 * Animate on mouse movement
 * Combine multiple effects
 
-## Structure
+### Structure
 
 ```
 Transform Scenes
@@ -56,15 +58,15 @@ Transform Scenes
          └── Properties (Move, Opacity, Rotate, Scale, Skew)
 ```
 
-## How to create
+### How to create
 
-### Step 1: Click **Add Item** to create a scene
+#### Step 1: Click **Add Item** to create a scene
 
 Click on **Add Item** button to create a new animation scene.
 
 ![astroid-transform-addnew.png](img/astroid-transform-addnew.png)
 
-### Step 2: Configure animation behavior
+#### Step 2: Configure animation behavior
 
 ![astroid-advanced-transform.png](img/astroid-advanced-transform.png)
 
@@ -77,7 +79,7 @@ Typical properties include:
 * Skew: Skew allows you to animate the skewing of an element along the X and Y axes. You can specify the start and end skew angles for both axes.
 * Tween Settings: A Tween is what does all the animation work - think of it like a high-performance property setter. You feed in targets (the objects you want to animate), a duration, and any properties you want to animate and when its playhead moves to a new position, it figures out what the property values should be at that point applies them accordingly.
 
-## Timeline Settings
+### Timeline Settings
 
 ![astroid-animation-advanced.png](img/astroid-animation-advanced.png)
 
@@ -91,7 +93,7 @@ A Timeline is a powerful sequencing tool that acts as a container for tweens and
 Use 0 for scroll animations
 Use -1 for floating or decorative effects
 
-## Scroll Settings
+### Scroll Settings
 
 Scroll Settings allow you to control how the animation is triggered by scroll events. You can specify the trigger point, duration, and easing of the animation.
 
@@ -120,9 +122,9 @@ This is separate from element animation. Adds **animated visuals behind your con
 
 ![astroid-animation-background.png](img/astroid-animation-background.png)
 
-## Key settings
+### Key settings
 
-### 1. Animation Type
+#### 1. Animation Type
 
 Choose an animation type available from the drop-down list. 
 
@@ -131,7 +133,7 @@ Choose an animation type available from the drop-down list.
 * Quantum
 * Heuristics
 
-### 2. Width & Height
+#### 2. Width & Height
 
 Controls animation canvas size
 
@@ -140,13 +142,13 @@ Controls animation canvas size
 * Use **full width (100%)** for sections
 * Fixed height for hero areas
 
-### 3. First Color
+#### 3. First Color
 
 First color is the main color of animation elements
 
 👉 Used in: Physics, Quantum, Hawking, and Heuristics mode
 
-### 4. Background Position
+#### 4. Background Position
 
 Choose a background position:
 * Left top

@@ -43,10 +43,10 @@ After uploading a background image, you can enable the parallax option:
 **Parallax Speed:** Controls how fast the background moves relative to content.
 
 Example values:
- - 0.5 → background moves slower than content (most common)
- - 1 → same speed (almost no parallax effect)
- - <0.5 → very slow, subtle effect 
- - (>1) faster than content (can feel unnatural)
+ * 0.5 → background moves slower than content (most common)
+ * 1 → same speed (almost no parallax effect)
+ * <0.5 → very slow, subtle effect 
+ * 1+ faster than content (can feel unnatural)
 
 📌 **Recommendation:**
 

@@ -26,8 +26,7 @@ The Circle Text Widget is perfect for:
 
 Enter the text that will appear in the circular layout. The text automatically wraps around the circle shape to create the rotating circular text effect.
 
-Example:
-`More About Us * More About Us *`
+Example: More About Us * More About Us *
 
 ### Font Styles
 
@@ -64,8 +63,8 @@ Controls the roundness of the widget container.
 
 For example: 
 
-* Unit is set to `%`
-* All values are `50`
+* Unit is set to: %
+* All values are: 50
 
 This creates a perfect circle.
 
@@ -89,8 +88,8 @@ Useful for:
 
 Example: 
 
-* Top margin: `140px`
-* Right margin: `10px`
+* Top margin: 140px
+* Right margin: 10px
 
 ### Width
 
@@ -103,10 +102,7 @@ Example:
 
 ### Icon
 
-Choose an icon displayed in the center of the circle. You can select an icon from the list. 
-
-The example uses:
-`Arrow Up Right From Square`
+Choose an icon displayed in the center of the circle. You can select an icon from the list.
 
 ### Icon Size
 
@@ -149,37 +145,6 @@ Controls the alignment or placement of the widget inside its container.
 
 Depending on the layout system, this includes: **Relative** and **Absolute**
 
-### Custom Class
 
-Add your own CSS class for advanced styling.
-
-Example:
-
-```css
-.custom-circle-text {
-    backdrop-filter: blur(10px);
-}
-```
-
-Useful for:
-
-* Custom animations
-* Additional hover effects
-* Responsive adjustments
-
-### Custom ID
-
-Assign a unique HTML ID to the widget.
-
-Example:
-
-```html
-#about-circle
-```
-Useful for:
-
-* Custom CSS targeting
-* JavaScript interactions
-* One-page navigation anchors
 
 

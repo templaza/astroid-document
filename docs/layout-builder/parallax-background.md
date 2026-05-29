@@ -14,7 +14,6 @@ This creates a depth illusion (3D-like feel) instead of a flat page. Besides, it
     * Call-to-action blocks
     * Landing pages
 
-
 ### Background Image + Attachment
 
 ![astroid-bg-img.png](img/astroid-bg-img.png)

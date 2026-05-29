@@ -83,9 +83,7 @@ Examples:
 
 Define the button label shown on the slide.
 
-Example:
-
-> Become a member
+Example: "Become a member"
 
 #### Link Target
 
@@ -119,7 +117,7 @@ This ensures the slider maintains a consistent vertical size even when content i
 
 Example:
 
-* `710px` keeps the slider tall enough for large hero banners.
+* "710px" keeps the slider tall enough for large hero banners.
 
 #### Max Height
 
@@ -128,7 +126,7 @@ This prevents oversized images from stretching the section too much on large scr
 
 Example:
 
-* `860px` prevents the slider from becoming excessively tall on widescreen displays.
+* "860px" prevents the slider from becoming excessively tall on widescreen displays.
 
 #### Padding
 
@@ -138,14 +136,14 @@ You can:
 
 * Apply equal padding to all sides using the lock icon.
 * Set individual values for: Top, Right, Bottom, Left.
-* Choose responsive units such as `px`, `%`, `em`, or `rem`.
+* Choose responsive units such as px, %, em, or rem.
 
 #### Border Radius
 
 Control the roundness of the slideshow corners.
 
 * Higher values create softer rounded corners.
-* A value like `30px` produces a modern card-style slider appearance.
+* A value like "30px" produces a modern card-style slider appearance.
 
 You can:
 
@@ -212,11 +210,7 @@ When disabled:
 
 Customize the label displayed for the next navigation button.
 
-Example:
-
-* `Next`
-* `Continue`
-* `View More`
+Example: Next, Continue or View More
 
 This allows you to match the slider navigation with your website’s tone and branding.
 
@@ -224,11 +218,7 @@ This allows you to match the slider navigation with your website’s tone and br
 
 Set the label for the previous navigation button. Custom labels are useful for multilingual websites or creative slider designs.
 
-Example:
-
-* `Preview`
-* `Previous`
-* `Back`
+Example: Preview, Previous, Back
 
 #### Color
 
@@ -365,7 +355,7 @@ You can:
 
 In the example:
 
-* A bottom padding value of `80px` creates additional spacing beneath the overlay content.
+* A bottom padding value of 80px creates additional spacing beneath the overlay content.
 
 Padding is especially useful for:
 
@@ -448,10 +438,10 @@ You can:
 
 In the example:
 
-* Top margin: `0`
-* Right margin: `300`
-* Bottom margin: `40`
-* Left margin: `0`
+* Top margin: 0
+* Right margin: 300
+* Bottom margin: 40
+* Left margin: 0
 
 ## 7. **Image Settings**
 

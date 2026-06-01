@@ -420,12 +420,6 @@ Configure the typography styling of the slide title. This section typically allo
 * Letter spacing
 * Responsive typography settings
 
-In the example:
-
-* The title preview displays the text **“INHERIT”**
-* Font Size is set to `110px`
-* Line Height is set to `110px`
-
 #### Margin
 
 Adjust the outer spacing around the title element.
@@ -447,9 +441,241 @@ In the example:
 
 ![astroid-ukslider-image.png](img/astroid-ukslider-image.png)
 
+The **Image Options** allows you to control the size, shape, and border styling of images displayed within each slide. These settings are particularly useful when using slider layouts that feature separate image elements alongside text content.
 
+### Width
 
+Set the width of the slide image. (Ex: 550px)
 
+You can:
+
+* Enter a custom value manually.
+* Use the slider control for quick adjustments.
+* Choose different units such as: px, %, em, rem.
+* Configure responsive values for different device sizes using the responsive control.
+
+### Height
+
+Define the height of the slide image. Example: **700px**.
+
+Setting a fixed height creates a consistent appearance across all slides, even when images have different original dimensions.
+
+### Border Radius
+
+Control the roundness of the image corners.
+
+You can:
+
+* Apply the same radius to all corners using the lock option.
+* Set individual values for: Top, Right, Bottom, Left.
+* Choose the measurement unit.
+
+### Border Style
+
+Choose the type of border applied to the image.
+
+Common options include:
+
+* None
+* Solid
+* Dashed
+* Dotted
+* Double
+* Groove
+* Ridge
+
+### Responsive Controls
+
+Several image settings include responsive controls, allowing you to define different values for:
+
+* Desktop
+* Tablet
+* Mobile devices
+
+This ensures images remain visually balanced and properly scaled across all screen sizes.
+
+## 8. **Meta Settings**
+
+![astroid-ukslider-meta.png](img/astroid-ukslider-meta.png)
+
+The **Meta Options** allows you to customize the appearance and placement of the meta text displayed on each slide. Meta text is typically used for supplementary information such as dates, categories, labels, authors, or short descriptions that appear alongside the slide title.
+
+#### Font Styles
+
+This setting controls the typography of the meta text.
+
+* Select a predefined font style or create a custom typography style.
+* Configure properties such as:
+
+    * Font family
+    * Font size
+    * Font weight
+    * Line height
+    * Letter spacing
+    * Text transformation
+    * Text color
+
+This allows the meta information to visually match the overall design of the slider.
+
+#### Background Color
+
+Adds a background color behind the meta text.
+
+* Supports solid colors and transparent backgrounds.
+* Useful for improving readability when the slider image contains busy or high-contrast areas.
+
+#### Margin
+
+Controls the external spacing around the meta element. (Margins help separate the meta text from surrounding content.
+).
+
+Options include:
+
+* Top
+* Right
+* Bottom
+* Left
+
+Additional controls:
+
+* Unit selector (px, em, rem, %, etc.)
+* Lock icon to apply the same value to all sides
+* Responsive device selector for different screen sizes
+
+#### Padding
+
+Controls the internal spacing inside the meta container. Padding is useful when using a background color to create badges, labels, or highlighted meta blocks.
+
+Options include:
+
+* Top
+* Right
+* Bottom
+* Left
+
+#### Position
+
+Determines where the meta text appears relative to the slide title. This helps control the content hierarchy within the slide overlay.
+
+Available options include:
+
+* **Before Title**
+* **After Title**
+
+#### Border Radius
+
+Rounds the corners of the meta container.
+
+Options include:
+
+* Top
+* Right
+* Bottom
+* Left
+
+## 9. **Content Settings**
+
+![astroid-ukslider-content.png](img/astroid-ukslider-content.png)
+
+This setting controls the typography of the main content of the widget. 
+You can let the content to inherit the global typography, or click on the setting icon to make custom adjustments. 
+
+* Configure properties such as:
+
+    * Font family: Select the primary font used for the slide content.
+    * Alt font family: Defines a fallback font if the primary font cannot be loaded.  
+    * Font size: Controls the size of the content text.
+    * Font weight: Controls the thickness of the content text.
+    * Line height: Controls the vertical spacing between lines of text.
+    * Letter spacing: Adjusts the distance between characters.
+    * Text transformation: Changes the capitalization style of the content text.
+    * Text color: Select the text color for the content.
+
+## 10. **Read More Settings**
+
+![astroid-ukslider-readmore.png](img/astroid-ukslider-readmore.png)
+
+The **Read More Options** allow you to customize the appearance and behavior of the call-to-action button displayed on each slide. 
+
+### Font Styles
+
+The Font Styles panel displays the typography currently applied to the Read More button.
+
+Example:
+
+* Font Family: **Barlow Condensed**
+* Font Size: **16px**
+* Line Height: **Inherit**
+
+You can select a predefined typography style or create a custom one to match your site's design.
+
+### Style
+
+Determines the overall button appearance. You can choose one of options available: 
+
+* Custom
+* Primary
+* Secondary
+* Success
+* Danger  
+* Link
+* ...
+
+The **Custom** style is selected, which unlocks additional styling controls such as colors, padding, and borders.
+
+### Margin
+
+Controls the external spacing around the Read More button. Use margins to create space between the button and nearby content elements.
+
+### Padding
+
+Controls the internal spacing inside the button. Larger padding creates a more prominent and clickable button.
+
+### Border Style
+
+Defines the border appearance of the button. Common options:
+
+* None
+* Solid
+* Dashed
+* Dotted
+* Double
+
+### Background Color
+
+Sets the default button background color.
+
+### Color Hover
+
+Controls the text color when a visitor hovers over the button. This creates an interactive visual effect and improves user engagement.
+
+### Background Hover Color
+
+Defines the button background color on mouse hover. Ex: Dark Blue
+
+When users move their cursor over the button, the background changes from the default green to blue. This provides visual feedback that the button is clickable.
+
+### Outline Style
+
+Enables or disables outline button styling.
+
+* Disabled: The button displays a solid background color.
+* Enabled: The button may display with transparent background, colored border, and colored text.
+
+### Style
+
+When outline mode is enabled, this dropdown allows you to select the outline appearance.
+
+Common options include:
+
+* Default
+* Large
+* Small
+
+### Border Radius
+
+Controls the shape of the button corners. Common options include: Rounded, Circle, Square, Custom. 
+If you choose Custom, you can adjust the Top, Right, Bottom, Left manually. 
 
 
 

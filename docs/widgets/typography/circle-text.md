@@ -146,5 +146,3 @@ Controls the alignment or placement of the widget inside its container.
 Depending on the layout system, this includes: **Relative** and **Absolute**
 
 
-
-

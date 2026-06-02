@@ -17,12 +17,12 @@ Once you add the **UK Slider**, you can configure it under the following section
 
 After clicking **Add New**, a popup window will appear where you can configure the slide content and settings.
 
-#### Element Title
+### Element Title
 
 Enter a name for the slide item.
 This title is mainly used internally to help identify the slide in the builder.
 
-#### Image Type
+### Image Type
 
 Choose the content type for the slide. Available options typically include:
 
@@ -30,9 +30,9 @@ Choose the content type for the slide. Available options typically include:
 * Video
 * Other supported media types depending on the widget version
 
-#### Select Image
+### Select Image
 
-Upload a new image or select one from the Joomla Media Library. Options available:
+Upload a new image or select one from the Joomla Media Library. 
 
 * **Change Image** – Replace the current image
 * **Clear** – Remove the selected image
@@ -42,7 +42,7 @@ For best results:
 * Use high-quality landscape images
 * Keep image dimensions consistent across all slides
 
-#### Title
+### Title
 
 Add the main heading displayed on the slide.
 
@@ -50,7 +50,7 @@ Example:
 
 > Train Hard. Play Smart. Rise together
 
-#### Meta
+### Meta
 
 Enter optional meta information such as:
 
@@ -59,7 +59,7 @@ Enter optional meta information such as:
 * Date
 * Tagline
 
-#### Description
+### Description
 
 Add the slide content using the visual editor. You can:
 
@@ -69,7 +69,7 @@ Add the slide content using the visual editor. You can:
 
 Keep descriptions short and readable for better slider presentation.
 
-#### Link
+### Link
 
 Enter the destination URL for the slide button.
 
@@ -79,13 +79,13 @@ Examples:
 * External website
 * Anchor link
 
-#### Link Text
+### Link Text
 
 Define the button label shown on the slide.
 
 Example: "Become a member"
 
-#### Link Target
+### Link Target
 
 Choose how the link opens. Common options you can choose: 
 
@@ -99,18 +99,18 @@ Choose how the link opens. Common options you can choose:
 
 The **Slideshow Settings** allows you to control the appearance, sizing, animation, and behavior of the slideshow. These settings help you create modern hero sliders, promotional banners, and interactive image presentations.
 
-#### Slider Style
+### Slider Style
 
 Choose a predefined layout style for the slideshow. Different styles affect the structure of the slide content, overlay positioning, typography, and navigation appearance.
 
-#### Height
+### Height
 
 Define how the slideshow height behaves.
 
 * **Auto**: The slider automatically adjusts based on the content or image dimensions.
 * Other height modes may allow fixed or viewport-based sizing for full-screen hero sections.
 
-#### Min Height
+### Min Height
 
 Set the minimum height of the slideshow in pixels.
 This ensures the slider maintains a consistent vertical size even when content is minimal.
@@ -119,7 +119,7 @@ Example:
 
 * "710px" keeps the slider tall enough for large hero banners.
 
-#### Max Height
+### Max Height
 
 Limit the maximum height of the slideshow.
 This prevents oversized images from stretching the section too much on large screens.
@@ -128,7 +128,7 @@ Example:
 
 * "860px" prevents the slider from becoming excessively tall on widescreen displays.
 
-#### Padding
+### Padding
 
 Add internal spacing around the slideshow content. Padding is useful for improving text readability and creating balanced layouts.
 
@@ -138,7 +138,7 @@ You can:
 * Set individual values for: Top, Right, Bottom, Left.
 * Choose responsive units such as px, %, em, or rem.
 
-#### Border Radius
+### Border Radius
 
 Control the roundness of the slideshow corners.
 
@@ -150,7 +150,7 @@ You can:
 * Link all sides together
 * Or customize each corner independently.
 
-#### Effect Type
+### Effect Type
 
 Choose the transition animation between slides. The selected effect determines how slides animate when changing. Common effects include:
 
@@ -160,7 +160,7 @@ Choose the transition animation between slides. The selected effect determines h
 * Pull  
 * Push
 
-#### Autoplay
+### Autoplay
 
 Enable automatic slide transitions.
 
@@ -173,7 +173,7 @@ When disabled:
 
 * Users manually navigate using arrows or indicators.
 
-#### Ken Burns Effect
+### Ken Burns Effect
 
 Apply cinematic motion effects to slide backgrounds. The Ken Burns effect adds subtle movement to static images, making the slideshow feel more dynamic and engaging.
 Options usually include:
@@ -193,7 +193,7 @@ Options usually include:
 
 The **Navigation Options** allows you to control the slider navigation buttons, including their visibility, labels, colors, hover effects, and spacing. These settings help create a more interactive and user-friendly slideshow experience.
 
-#### Navigation
+### Navigation
 
 Enable or disable the slider navigation controls.
 
@@ -206,7 +206,7 @@ When disabled:
 
 * Navigation arrows/buttons are hidden, leaving only autoplay or swipe navigation if enabled.
 
-#### Next Button Text
+### Next Button Text
 
 Customize the label displayed for the next navigation button.
 
@@ -214,29 +214,21 @@ Example: Next, Continue or View More
 
 This allows you to match the slider navigation with your website’s tone and branding.
 
-#### Preview Button Text
+### Preview Button Text
 
 Set the label for the previous navigation button. Custom labels are useful for multilingual websites or creative slider designs.
 
 Example: Preview, Previous, Back
 
-#### Color
+### Color
 
-Define the default text or icon color of the navigation buttons.
+Define the default text or icon color of the navigation buttons. This helps ensure the navigation remains visible against slideshow backgrounds.
 
-You can use:
-
-* Solid colors
-* Theme colors
-* Custom branding colors
-
-This helps ensure the navigation remains visible against slideshow backgrounds.
-
-#### Background Color
+### Background Color
 
 Set the background color of the navigation buttons. Transparent backgrounds are commonly used for modern minimal sliders.
 
-#### Color Hover
+### Color Hover
 
 Choose the text or icon color when users hover over the navigation buttons.
 
@@ -246,11 +238,11 @@ Hover colors improve:
 * User interaction
 * Accessibility
 
-#### Background Hover Color
+### Background Hover Color
 
 Define the background color displayed when hovering over navigation controls. This creates smooth interactive effects and improves button visibility during mouse interaction.
 
-#### Padding
+### Padding
 
 Control the internal spacing of the navigation buttons.
 
@@ -268,7 +260,7 @@ Larger padding creates bigger modern navigation buttons, while smaller values ke
 
 The **Dot Options** allows you to configure the slideshow pagination dots. These dots help users identify the current slide and quickly navigate between slides.
 
-#### Dot Style
+### Dot Style
 
 Choose the appearance style of the navigation dots. Available styles may include:
 
@@ -279,7 +271,7 @@ Choose the appearance style of the navigation dots. Available styles may include
 
 When set to **None**, the dot navigation is completely hidden. Dot styles help match the slider design with your website’s visual identity.
 
-#### Position
+### Position
 
 Control where the dot navigation appears within the slideshow. Common positions include:
 
@@ -294,7 +286,7 @@ Control where the dot navigation appears within the slideshow. Common positions 
 
 When set to **None**, the dots are not displayed. Proper positioning improves usability without distracting from the slide content.
 
-#### Margin
+### Margin
 
 Adjust the spacing around the dot navigation container.
 
@@ -306,23 +298,25 @@ You can:
 
 Margins help create better alignment and spacing between the dots and the slideshow content.
 
-#### Border Color
+### Border Color
 
 Define the border color of the navigation dots. Transparent borders can also be used for minimal designs.
 
-#### Color
+### Color
 
 Set the default fill or icon color of the navigation dots. This controls the appearance of inactive dots and helps users identify available slides.
 
-#### Color Hover
+### Color Hover
 
 Specify the color shown when users hover over the dots. You can use brighter or accent colors to highlight active interaction.
 
 ## 5. **Overlay Settings**
 
-The **Overlay Options** section of the UK Slider widget in the Astroid Framework controls how slide content is displayed on top of slideshow images. These settings help you create visually engaging hero sections with properly aligned text, buttons, and overlays.
+![astroid-ukslider-overlay.png](img/astroid-ukslider-overlay.png)
 
-#### Max Width
+The **Overlay Options** section controls how slide content is displayed on top of slideshow images. These settings help you create visually engaging hero sections with properly aligned text, buttons, and overlays.
+
+### Max Width
 
 Define the maximum width of the overlay content container. Available options may include:
 
@@ -343,7 +337,7 @@ Using a max width helps:
 * Prevent overly stretched content on large screens
 * Create balanced hero layouts
 
-#### Padding
+### Padding
 
 Control the internal spacing inside the overlay content area.
 
@@ -363,7 +357,7 @@ Padding is especially useful for:
 * Improving readability
 * Creating modern spacious layouts
 
-#### Alignment
+### Alignment
 
 Set the text alignment of the overlay content. Common options include:
 
@@ -376,7 +370,7 @@ Example:
 
 * **Left alignment** is commonly used for professional hero banners and promotional sections.
 
-#### Position
+### Position
 
 Positioning helps guide visual focus and improves composition with background images.
 Choose where the overlay content appears within the slideshow. Common positions include:
@@ -394,11 +388,11 @@ Example:
 
 * **Bottom Left** positions the content near the lower-left corner of the slide.
 
-#### Background Color
+### Background Color
 
 Set a background color behind the overlay content. Overlay backgrounds help maintain readability on image-heavy slides.
 
-#### HTML Element
+### HTML Element
 
 Define the HTML tag used for the overlay heading or main text element. Common options include: H1, H2, H3, H4, H5, H6, DIV
 
@@ -408,7 +402,7 @@ Example: **H3** creates a semantic heading structure suitable for section titles
 
 The **Title Options** allows you to customize the appearance and spacing of slide titles. These settings help create visually impactful headings for hero banners, promotional sliders, and featured content sections.
 
-#### Font Styles
+### Font Styles
 
 Configure the typography styling of the slide title. This section typically allows you to control:
 
@@ -420,7 +414,7 @@ Configure the typography styling of the slide title. This section typically allo
 * Letter spacing
 * Responsive typography settings
 
-#### Margin
+### Margin
 
 Adjust the outer spacing around the title element.
 
@@ -484,28 +478,17 @@ Common options include:
 * Groove
 * Ridge
 
-### Responsive Controls
-
-Several image settings include responsive controls, allowing you to define different values for:
-
-* Desktop
-* Tablet
-* Mobile devices
-
-This ensures images remain visually balanced and properly scaled across all screen sizes.
-
 ## 8. **Meta Settings**
 
 ![astroid-ukslider-meta.png](img/astroid-ukslider-meta.png)
 
 The **Meta Options** allows you to customize the appearance and placement of the meta text displayed on each slide. Meta text is typically used for supplementary information such as dates, categories, labels, authors, or short descriptions that appear alongside the slide title.
 
-#### Font Styles
+### Font Styles
 
 This setting controls the typography of the meta text.
 
-* Select a predefined font style or create a custom typography style.
-* Configure properties such as:
+* Select a predefined font style or create a custom typography style. Configure properties such as:
 
     * Font family
     * Font size
@@ -517,14 +500,14 @@ This setting controls the typography of the meta text.
 
 This allows the meta information to visually match the overall design of the slider.
 
-#### Background Color
+### Background Color
 
 Adds a background color behind the meta text.
 
 * Supports solid colors and transparent backgrounds.
 * Useful for improving readability when the slider image contains busy or high-contrast areas.
 
-#### Margin
+### Margin
 
 Controls the external spacing around the meta element. (Margins help separate the meta text from surrounding content.
 ).
@@ -542,7 +525,7 @@ Additional controls:
 * Lock icon to apply the same value to all sides
 * Responsive device selector for different screen sizes
 
-#### Padding
+### Padding
 
 Controls the internal spacing inside the meta container. Padding is useful when using a background color to create badges, labels, or highlighted meta blocks.
 
@@ -553,7 +536,7 @@ Options include:
 * Bottom
 * Left
 
-#### Position
+### Position
 
 Determines where the meta text appears relative to the slide title. This helps control the content hierarchy within the slide overlay.
 
@@ -562,7 +545,7 @@ Available options include:
 * **Before Title**
 * **After Title**
 
-#### Border Radius
+### Border Radius
 
 Rounds the corners of the meta container.
 

@@ -4,9 +4,9 @@ sidebar_position: 14
 
 # Pricing Table
 
-## 1. General Heading
-
 ![astroid-pro-pricing-table.png](img/astroid-pro-pricing-table.png)
+
+## 1. General Heading
 
 The **General Settings** allow you to create and customize a complete pricing plan card, including plan information, pricing details, feature lists, and call-to-action buttons.
 

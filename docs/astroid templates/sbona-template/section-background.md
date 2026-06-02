@@ -33,9 +33,14 @@ These options help create different visual styles depending on your website desi
 
 ## 1. Solid Color Background
 
-A color background is the simplest and fastest way to style a section. Suitable for Headers, Footer sections, Highlighted call-to-action areas, Minimal clean designs
+A color background is the simplest and fastest way to style a section. Suitable for: 
 
-#### How to Use
+* Headers
+* Footer sections
+* Highlighted call-to-action areas
+* Minimal clean designs
+
+### How to Use
 
 ![sbona-bg-color.png](img/sbona-bg-color.png)
 

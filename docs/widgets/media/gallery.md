@@ -14,6 +14,8 @@ The Gallery Widget in Astroid Framework is a visual content widget that allows y
 
 ### Gallery Items
 
+![astroid-gallery-add-item.png](img/astroid-gallery-add-item.png)
+
 The Gallery Items area is where you create and manage the images displayed in the gallery.
 
 Click **Add Item** to create a new gallery entry. Each gallery item typically includes:

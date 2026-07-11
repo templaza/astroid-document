@@ -107,6 +107,11 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://www.youtube.com/@Astroid-Joomla-Seamlessly',
+            label: 'Video Tutorials',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/templaza/astroid-framework',
             label: 'GitHub',
             position: 'right',

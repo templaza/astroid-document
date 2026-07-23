@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# UK Image Widget
+# UK Image
 
 The **UK Image** widget allows you to display images with optional captions and clickable links. It is ideal for showcasing photos, banners, featured content, and visual highlights throughout your website.
 

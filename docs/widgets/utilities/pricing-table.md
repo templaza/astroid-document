@@ -14,6 +14,8 @@ It offers flexible customization for the placement of key elements such as price
 
 The **General Settings** allow you to create and customize a complete pricing plan card, including plan information, pricing details, feature lists, and call-to-action buttons.
 
+![astroid-pricing-general.png](img/astroid-pricing-general.png)
+
 ### Heading
 
 Enter the main title of the pricing plan.
@@ -190,9 +192,7 @@ This option allows you to select a predefined corner style, such as rounded or s
 
 ### Rounded Size
 
-This option is available when **Card Border Radius** is set to **Rounded**.
-
-Select the desired radius size to control how rounded the card corners are.
+This option is available when **Card Border Radius** is set to **Rounded**. Select the desired radius size to control how rounded the card corners are.
 
 **Example:** Select **Medium** for a balanced rounded appearance.
 
@@ -226,7 +226,7 @@ This option can be combined with **Hover Transition** to create a more noticeabl
 
 The **Title Settings** allow you to customize the appearance and spacing of the pricing table title. These options help you control typography, alignment, spacing, and border styling to match your website's design.
 
-![astroid-pricing-meta.png](img/astroid-pricing-meta.png)
+![astroid-pricing-title.png](img/astroid-pricing-title.png)
 
 ### Font Styles
 

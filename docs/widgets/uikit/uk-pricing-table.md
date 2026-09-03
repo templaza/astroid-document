@@ -12,6 +12,8 @@ It offers flexible customization for the placement of key elements such as price
 
 The **General Settings** allow you to create and customize a complete pricing plan card, including plan information, pricing details, feature lists, and call-to-action buttons.
 
+![astroid-pricing-general.png](img/astroid-pricing-general.png)
+
 ### Heading
 
 Enter the main title of the pricing plan.
@@ -160,7 +162,7 @@ Use **New Window** when linking to external pages or third-party services.
 
 The **Title Settings** allow you to customize the appearance and spacing of the pricing table title. These options help you control typography, alignment, spacing, and border styling to match your website's design.
 
-![astroid-pricing-meta.png](img/astroid-pricing-meta.png)
+![astroid-pricing-title.png](img/astroid-pricing-title.png)
 
 ### Font Styles
 

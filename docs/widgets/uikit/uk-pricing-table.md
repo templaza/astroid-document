@@ -1,14 +1,12 @@
 ---
-sidebar_position: 14
+sidebar_position: 6
 ---
 
-# Pricing Table
+# UK Pricing Table
 
-Pricing Table Widget helps you create modern, Bootstrap 5 - compatible pricing tables with ease. 
+UK Pricing Table Widget helps you create clean & modern pricing tables with ease. 
 
 It offers flexible customization for the placement of key elements such as price, meta information, descriptions, and feature lists, allowing every plan to match your design perfectly. You can highlight featured plans with configurable badges, including custom badge colors and individual label text colors. The widget also supports adding custom attributes to CTA buttons, making it simple to connect your pricing plans with sales platforms such as FastSpring, Stripe, and more.
-
-![astroid-pro-pricing-table.png](img/astroid-pro-pricing-table.png)
 
 ## 1. General Heading
 
@@ -158,71 +156,7 @@ Choose how the link opens.
 
 Use **New Window** when linking to external pages or third-party services.
 
-## 2. Card Settings
-
-![pricing-table-card](img/pricing-table-card.png)
-
-The **Card Options** section allows you to customize the overall appearance and interactive effects of each pricing card. You can control the card style, size, corner radius, hover transition, and shadow effects to create a pricing table that matches your website's design.
-
-### Card Style
-
-Choose a predefined visual style for the pricing card from the dropdown menu.
-
-Use this option to change the overall appearance of the card and make it fit the visual style of your website.
-
-**Example:** Select **Default** to use the standard card appearance.
-
-### Card Size
-
-Select the predefined size of the pricing card.
-
-This option controls the overall spacing and visual proportions of the card, allowing you to make pricing cards more compact or more spacious depending on your layout.
-
-**Example:** Select **Default** to use the standard card size.
-
-### Card Border Radius
-
-Choose how the corners of the pricing card should appear.
-
-This option allows you to select a predefined corner style, such as rounded or square, depending on the available options.
-
-**Example:** Select **Rounded** to give the card softer, curved corners.
-
-### Rounded Size
-
-This option is available when **Card Border Radius** is set to **Rounded**.
-
-Select the desired radius size to control how rounded the card corners are.
-
-**Example:** Select **Medium** for a balanced rounded appearance.
-
-> **Tip:** Use a larger rounded size for a softer, more modern design, or a smaller size for a subtle rounded effect.
-
-### Hover Transition
-
-Choose the transition effect applied when a visitor moves the mouse pointer over a pricing card.
-
-A hover transition can make the card feel more interactive and provide visual feedback that the card is an interactive element.
-
-**Example:** Select **Default** to use the standard hover transition.
-
-### Box Shadow
-
-Choose a predefined shadow style for the pricing card.
-
-A box shadow can add depth and separation between the pricing card and the page background.
-
-**Example:** Select **Default** to use the standard shadow defined by the theme or widget.
-
-### Hover Box Shadow
-
-Choose the shadow effect that appears when the visitor hovers over the pricing card.
-
-This option can be combined with **Hover Transition** to create a more noticeable interactive effect.
-
-**Example:** Select **Default** to use the standard hover shadow.
-
-## 3. Title Settings
+## 2. Title Settings
 
 The **Title Settings** allow you to customize the appearance and spacing of the pricing table title. These options help you control typography, alignment, spacing, and border styling to match your website's design.
 
@@ -284,7 +218,7 @@ Select the color of the title border. Choose a border color that complements the
 
 The **Border Radius** setting controls the roundness of the title container corners. A larger radius produces softer, more modern styling, while a smaller radius creates a sharper appearance.
 
-## 4. Meta Settings
+## 3. Meta Settings
 
 The **Meta Settings** section controls the position of the meta information associated with a pricing table item. Meta content is typically used for supplementary details such as plan descriptions, labels, subtitles, durations, or additional information displayed alongside the pricing package.
 
@@ -308,47 +242,7 @@ Example: If a pricing plan contains:
 
 With **Meta Align** set to **Below**, the meta text ("Billed monthly") will appear underneath the main pricing information, providing additional context without distracting from the plan title or price.
 
-## 5. Icon Settings
-
-![prcing-table-icons](img/pricing-table-icons.png)
-
-The **Icon Options** section allows you to customize the appearance and spacing of icons displayed in the pricing table. You can adjust the icon size, color, and margins to achieve the desired visual style.
-
-### Icon Size
-
-Set the size of the pricing table icon in pixels.
-
-Use the input field or slider to adjust the icon size. A larger value displays a larger icon, while a smaller value creates a more compact appearance.
-
-**Example:** Set **60 px** to display the icon at 60 pixels.
-
-### Icon Color
-
-Set the icon colors for different color modes.
-
-The pricing table provides separate color settings for:
-
-* **Light** — Sets the icon color for Light Mode.
-* **Dark** — Sets the icon color for Dark Mode.
-
-This allows the icons to remain clearly visible and consistent with your website's color scheme in both modes.
-
-### Margin
-
-Adjust the spacing around the icon by setting the margin for each side.
-
-You can configure:
-
-* **Top** — Sets the space above the icon.
-* **Right** — Sets the space to the right of the icon.
-* **Bottom** — Sets the space below the icon.
-* **Left** — Sets the space to the left of the icon.
-
-You can also select the unit used for the margin values, such as **px**, and use the **Global** option to apply a consistent value across the layout.
-
-The **lock** icon allows you to link or unlink the margin values. When linked, changing one value can apply the same value to all sides. When unlinked, each side can be configured independently.
-
-## 6. Pricing Settings
+## 4. Pricing Settings
 
 ![astroid-pricing-pricing.png](img/astroid-pricing-pricing.png)
 
@@ -397,7 +291,7 @@ The **Margin** setting controls the outer spacing around the pricing element.
 
 Margins help create proper spacing between the price and surrounding elements such as the title, description, or feature list.
 
-## 7. Symbol Settings
+## 5. Symbol Settings
 
 The Symbol Settings section controls the appearance and positioning of the currency symbol or pricing symbol displayed alongside the price value. These options help ensure the symbol integrates seamlessly with the overall pricing design.
 
@@ -433,7 +327,7 @@ Available controls:
 * Bottom
 * Left
 
-## 8. Description Settings
+## 6. Description Settings
 
 The Description Settings section allows you to customize the appearance and spacing of the description text displayed within a pricing table item. The description is typically used to provide additional information about a pricing plan, package, or service.
 
@@ -452,7 +346,7 @@ The **Font Styles** option lets you configure the typography of the pricing tabl
 * Letter Spacing
 * Line Height
 
-## 9. Listing Settings
+## 7. Listing Settings
 
 ![astroid-pricing-listing.png](img/astroid-pricing-listing.png)
 
@@ -523,7 +417,7 @@ Available Controls:
 * Bottom
 * Left
 
-## 10. Button Settings
+## 8. Button Settings
 
 The Button Settings section allows you to customize the appearance, spacing, and styling of the call-to-action (CTA) button displayed in a pricing table item. This button is typically used to encourage users to purchase a plan, subscribe to a service, or learn more about a package.
 

@@ -12,8 +12,6 @@ This widget is available in the **Astroid Pro** version only. If you are using t
 
 ![listing-pro-display.jpg](../../../static/img/widgets/utilities/listing-pro-display.jpg)
 
----
-
 ## 🛠 How to Use
 
 ### 📍 Step 1: Open the Layout Builder
@@ -24,8 +22,6 @@ This widget is available in the **Astroid Pro** version only. If you are using t
 4. Open the **Layout** tab
 5. Launch the **Layout Builder**
 
----
-
 ### 🧱 Step 2: Add the Widget
 1. Open the **Astroid Layout Builder**.
 2. Add a new **Widget** to your desired section.
@@ -34,8 +30,6 @@ This widget is available in the **Astroid Pro** version only. If you are using t
 ![add-element.jpeg](../../../static/img/widgets/add-element.jpeg)
 
 ![select-utilities.jpg](../../../static/img/widgets/select-utilities.jpg)
-
----
 
 ## 🔧 General Settings
 
@@ -63,8 +57,6 @@ This widget is available in the **Astroid Pro** version only. If you are using t
 - **Border Radius:** Set button shape:
     - `Rounded` (default), `Square (rounded-0)`, `Circle (rounded-pill)`
 
----
-
 ## 📝 Item Configuration
 
 You can add multiple **items** to the listing. Each item supports the following fields:
@@ -78,8 +70,6 @@ You can add multiple **items** to the listing. Each item supports the following 
 - **Link Target:** Where the link opens:
     - `Default`, `_blank` (new tab), `_parent`, `_top`
 
----
-
 ## 🔄 Dynamic Content Support
 
 If you want to automatically populate the widget with dynamic content:
@@ -89,13 +79,9 @@ If you want to automatically populate the widget with dynamic content:
 
 > ⚠️ Requires setup of a dynamic source like Joomla articles, JSON feed, etc.
 
----
-
 ## 🧱 Item Padding
 
 - **Item Padding:** Adjust the spacing inside each list item using the `astroidspacing` field.
-
----
 
 ## 🎯 Assignment Settings
 
@@ -106,8 +92,6 @@ Control where the widget appears on your site:
     - `No Pages`: Hide the widget completely.
     - `Selected Pages`: Show only on specific menu items.
 - **Assign to Menu Item:** Select specific menu items (visible only when `Selected Pages` is chosen).
-
----
 
 ## ✅ Summary
 
@@ -120,5 +104,3 @@ Control where the widget appears on your site:
 - Any structured, repeatable content
 
 With full support for styling, layout, dynamic content, and assignments, this widget gives you powerful control over your content presentation.
-
----

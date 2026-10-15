@@ -102,6 +102,3 @@ Let’s say you want a heading that says:
 | **HTML Element**     | `h2`                   |
 | **Font Style**       | Bold, 32px, optional   |
 
----
-
-Would you like an illustration or downloadable version of this guide?

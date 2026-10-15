@@ -15,8 +15,6 @@ Navigate to your **Astroid Layout Builder**:
 4. Open the **Layout** tab
 5. Launch the **Layout Builder**
 
----
-
 ## ⚙️ General Settings
 
 These settings apply to each button you add:
@@ -92,8 +90,6 @@ You want to display a list of tutorials from a Joomla category. Instead of writi
 
 > 💡 You can mix static and dynamic content — some items can have manually entered content, and others can pull from dynamic sources.
 
----
-
 ## 🎨 Widget Styles
 
 ![button-styles.jpg](../../../static/img/widgets/button-styles.jpg)
@@ -101,8 +97,6 @@ You want to display a list of tutorials from a Joomla category. Instead of writi
 ### Button Group
 
 - Toggle to group multiple buttons together for aligned display.
-
----
 
 ### Button Size
 - Default
@@ -121,8 +115,6 @@ You want to display a list of tutorials from a Joomla category. Instead of writi
 ### Gutter
 - Adjust spacing between buttons in group layout.
 
----
-
 ## 📄 Page Assignment
 
 Control where the button widget appears:
@@ -131,15 +123,3 @@ Control where the button widget appears:
 - Selected Menu Items
 
 When choosing “Selected Menu Items”, a menu selector will appear.
-
----
-
-## ✅ Summary
-
-Button Widget offers:
-- Customizable labels, links, icons
-- Bootstrap styling & custom design
-- Flexible layout & visibility settings
-- Integration with dynamic content
-
-Use this widget to enhance user navigation and call-to-action performance on your Joomla site.

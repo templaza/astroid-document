@@ -18,19 +18,15 @@ The **List Widget** in Astroid Framework helps you create styled lists with icon
 4. Open the **Layout** tab
 5. Launch the **Layout Builder**
 
----
-
 ### 🧱 Step 2: Add the List Widget
 
-1. In the layout builder, find the section where you want to place the image carousel (you can also create a new section).
+1. In the layout builder, find the section where you want to place the widget (you can also create a new section).
 2. Click the **“+ Add Widget”** button.
 3. Search for and select **List** from the list.
 
 ![add-element.jpeg](../../../static/img/widgets/add-element.jpeg)
 
 ![select-utilities.jpg](../../../static/img/widgets/select-utilities.jpg)
-
----
 
 ## ⚙️ General Settings
 
@@ -48,8 +44,6 @@ To add more items, click **Add Item**.
 
 ![list-widget-items.jpg](../../../static/img/widgets/list-widget-items.jpg)
 
----
-
 ## 🎨 Styling Options
 
 ### 📋 List Style
@@ -65,42 +59,30 @@ Set the overall style of the list using the **List Style** dropdown:
 
 > 💡 If you choose **Description List**, you can also adjust the **Title Width** using a column range (1-12 columns).
 
----
-
 ## 🧩 Title Options
 
 - **HTML Element**: Choose the tag for item titles (`h1` to `h6`, or `div`).
 - **Font Style**: Adjust the typography for titles.
 - **Heading Margin**: Customize spacing around the title.
 
----
-
 ## 🖋️ Content Options
 
 - **Font Style**: Adjust the typography for the description (if used).
-
----
 
 ## 📏 Spacing Options
 
 - **Item Margin**: Set the spacing between list items.
 - **Item Padding**: Set internal spacing within each item.
 
----
-
 ## 📦 Misc Options
 
 - Grouped with the **General Settings**, these options affect the widget's overall presentation and structure.
-
----
 
 ## ⚡ Dynamic Content (Optional)
 
 You can load list data dynamically:
 - Enable **Dynamic Content Source** inside a list item.
 - Configure your data source to auto-populate the fields.
-
----
 
 ## 📄 Assignment Settings
 
@@ -111,15 +93,11 @@ Control where the widget appears:
 
 > When "Selected Pages" is selected, use the menu selector to choose where the widget is shown.
 
----
-
 ## ✅ Tips & Best Practices
 
 - Keep titles short and icons relevant for better visual impact.
 - Use **List Group** styles for more polished Bootstrap-like layouts.
 - Combine **dynamic content** with the list for data-driven items.
-
----
 
 ## 📌 Example Use Cases
 

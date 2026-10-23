@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Animation
+
 Astroid 3.4.0 introduced a **completely upgraded animation engine** not just simple fade/slide effects, but a **multi-layer system**:
 
 * ✅ Basic animations
